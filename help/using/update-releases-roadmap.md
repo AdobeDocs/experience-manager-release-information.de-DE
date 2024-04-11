@@ -2,8 +2,8 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3576fd92208fbe3db53ef9fe79a385e3138ece7c
-workflow-type: ht
+source-git-commit: c4476985bbe7dede32a748d8f7f16bcf843a055c
+workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 100%
 
@@ -40,12 +40,12 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de) | Funktionsaktivierung | 25. Januar 2024 | Aktiviert |
 | Wartungsversion [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=de#release-15262) | Automatisches Update | 11.-13. März 2024 | Aktiviert |
 | Wartungsversion [15575](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Automatisches Update | 19.–21. März 2024 | Aktiviert |
-| Wartungsversion [15787](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 8.-10. April 2024 | Aktiviert |
 
 ### Bevorstehende Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
+| Wartungsversion [15860](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 8.-10. April 2024 | Ziel |
 | Neue Funktionen 2024.3.0 | Funktionsaktivierung | Freitag, 11. April 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 22.-24. April 2024 | Ziel |
 | Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
