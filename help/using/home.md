@@ -1,17 +1,17 @@
 ---
-title: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
-description: „Updates und Roadmap für [!DNL Adobe Experience Manager]-Versionen“
+title: Adobe Experience Manager-Versions-Updates und -Roadmap
+description: Adobe Experience Manager-Versionsupdates und Roadmap.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '56'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 66%
 
 ---
 
 # Adobe Experience Manager-Versions-Updates und -Roadmap
 
-In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Versions-Roadmap, zu früheren Versions-Updates und zu Aktualisierungen der Dokumentation behandelt.
+In diesem Handbuch werden Informationen zu [!DNL Adobe Experience Manager] Versions-Roadmap, frühere Versionsupdates und Dokumentationsaktualisierungen.
 
 * [Updates für [!DNL Experience Manager]-Versionen](aem-releases-updates.md)
 * [Roadmap für [!DNL Experience Manager]-Versionen](update-releases-roadmap.md)

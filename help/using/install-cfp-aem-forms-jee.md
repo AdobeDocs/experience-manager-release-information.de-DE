@@ -1,12 +1,12 @@
 ---
 title: Installieren von Cumulative Fix Packs in AEM Forms JEE
-description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Packs (CFP) für AEM Forms JEE
+description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Pack (CFP) auf AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ Um das Cumulative Fix Pack auf AEM 6.3 [!DNL Forms JEE] zu installieren, führen
 
 Das AEM [!DNL  Forms JEE]-Paket (aemfd-jee-bundles-package-6.3CFP1; Version 1.0.2) bietet den Benutzenden von [!DNL Forms] in AEM [!DNL Forms JEE] die gleichen Berechtigungen und Möglichkeiten wie in AEM [!DNL Forms OSGi]. Überprüfen Sie Ihre installierten Pakete im Package Manager und installieren Sie das Paket, falls es noch nicht installiert ist.
 
-### Zusätzliche Anweisungen für CQ-4208044 {#additional-instructions-for-cq}
+### Weitere Anweisungen für CQ-4208044 {#additional-instructions-for-cq}
 
 Wenn Sie AEM 6.3 [!DNL Forms JEE]-Server mit einer Oracle-Datenbank verwenden, konfigurieren Sie die folgenden Einstellungen nach der Bereitstellung von CFP1, d. h. nach der Ausführung von Configuration Manager. Diese Einstellung ist erforderlich, um Benutzer, Gruppen und Gruppenmitglieder zu synchronisieren, wenn die Synchronisierung der Unternehmens-Domain ausgeführt wird.
 
@@ -100,8 +100,8 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
    Wechseln Sie zum entsprechenden Verzeichnis auf dem Installationsdatenträger oder zu dem Ordner auf der Festplatte, in den Sie das Installationsprogramm kopiert haben:
 
-   * (Windows 32-Bit): Disk1\InstData\Windows\VM
-   * (Windows 64-Bit): Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`
 
    Doppelklicken Sie dann auf die folgende Datei:
 
@@ -126,7 +126,7 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
    Der Installationsassistent wird gestartet, um Sie durch die Installation zu führen.
 
 1. Klicken Sie im Begrüßungsbildschirm auf **[!UICONTROL Weiter]**.
-1. Stellen Sie auf dem Bildschirm „Installationsordner auswählen“ sicher, dass der Standardspeicherort, der angezeigt wird, für Ihre bestehende Installation korrekt ist, oder klicken Sie auf **[!UICONTROL Durchsuchen]**[!DNL Forms], um den alternativen Ordner auszuwählen, in dem AEM installiert ist, und klicken Sie auf **[!UICONTROL Weiter]**.
+1. Überprüfen Sie im Bildschirm &quot;Installationsordner auswählen&quot;, ob der angezeigte Standardspeicherort für Ihre vorhandene Installation korrekt ist. Oder klicken Sie auf **[!UICONTROL Durchsuchen]** , um den alternativen Ordner auszuwählen, in dem AEM [!DNL Forms] installiert ist, klicken Sie auf **[!UICONTROL Nächste]**.
 1. Lesen Sie die Zusammenfassung der Schnellkorrektur und klicken Sie auf **[!UICONTROL Weiter]**.
 1. Lesen Sie die Informationen in der Zusammenfassung vor der Installation und klicken Sie auf **[!UICONTROL Installieren]**.
 1. Wenn die Installation abgeschlossen ist, klicken Sie auf **[!UICONTROL Weiter]**, um die Schnellkorrektur-Updates auf Ihre installierten Dateien anzuwenden.

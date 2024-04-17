@@ -2,10 +2,10 @@
 title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ Suchen Sie vorherige Handbücher mit Hilfe für ältere Versionen von AEM, CQ un
 
 ## Ältere Versionen der [!DNL Experience Manager]-Dokumentation {#older-version-aem-documentation}
 
-Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager], CQ und CRX sind veraltet und werden nicht mehr offiziell von Adobe verkauft. Die neuesten Versionen der offiziellen Dokumentation von Adobe für diese älteren Versionen sind für Ihre Selbsthilfe verfügbar. Adobe empfielt, auf die neueste Version zu aktualisieren: [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).
+Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager], CQ und CRX sind veraltet und werden nicht mehr offiziell von Adobe verkauft. Die neuesten Versionen der offiziellen Dokumentation von Adobe für diese älteren Versionen sind für Ihre Selbsthilfe verfügbar. Adobe empfielt, auf die neueste Version zu aktualisieren: [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service).
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Wenn Sie Hilfe beim Erstellen oder Verwalten Ihrer Adobe ID benötigen, [lesen S
 
 | [!DNL Experience Manager]-Version | Link zu Software Distribution |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Dokumentation zu Adobe Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de) |
+| [!DNL Experience Manager] 6.4 | [Dokumentation zu Adobe Experience Manager 6.4](https://experienceleague.adobe.com/en/docs/experience-manager-64) |
 | [!DNL Experience Manager] 6.3 | [Herunterladen von AEM-DOCS-6.3 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [Herunterladen von AEM-DOCS-6.2 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [Herunterladen von AEM-DOCS-6.1 von Software Distibution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
