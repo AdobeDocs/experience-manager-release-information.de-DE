@@ -1,12 +1,12 @@
 ---
 title: Definitionen von Aktualisierungsversionen
-description: In diesem Artikel werden die verschiedenen  [!DNL Experience Manager] -Versionen beschrieben, einschließlich Vollversionen, Feature Packs und Service Packs.
+description: In diesem Artikel werden die verschiedenen Arten von [!DNL Experience Manager] Versionen, einschließlich Vollversionen, Feature Packs und Service Packs.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+workflow-type: tm+mt
 source-wordcount: '731'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -77,4 +77,4 @@ Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe
 | Verfügbarkeit und Installation | <ul> <li>Bereitstellung über Service Packs </li> <li> Verfügbar über Software Distribution. Kunden akzeptieren die Geschäftsbedingungen von [!DNL Adobe's] über Software Distribution. </li> </ul> |
 | Teststufe | General Availability Feature Packs werden durch die Qualitätssicherung validiert. |
 
-* 1: Oak-Fehlerbehebungen werden nicht als individuelle Hotfixes bereitgestellt. Sie sind jedoch im Lieferumfang des nachfolgenden Cumulative Oak Hot Fix enthalten. Bei Bedarf kann ein Diagnose-Build zusätzlich zum aktuellen COFP bereitgestellt werden. Eine Vorbedingung hierfür ist, dass der Kunde das aktuelle COFP ausgeführt hat. Diagnose-Builds bieten nur die Qualitätssicherungsstufe eines Hotfixes. Sie bieten daher nicht dieselbe Qualitätssicherungsstufe wie ein Cumulative Fix Pack, ein Service Pack oder eine Produktversion. Die endgültige Fehlerbehebung wird mit dem nächsten CFP bereitgestellt.
+* 1: Oak-Fehlerbehebungen werden nicht als individuelle Hotfixes bereitgestellt. Sie sind jedoch im Lieferumfang des nachfolgenden Cumulative Oak Hot Fix enthalten. Bei Bedarf kann eine auf der neuesten COFP aufbauende Diagnose bereitgestellt werden. Eine Vorbedingung hierfür ist, dass der Kunde das aktuelle COFP ausgeführt hat. Diagnose-Builds bieten nur die Qualitätssicherungsstufe eines Hotfixes. Sie bieten daher nicht dieselbe Qualitätssicherungsstufe wie ein Cumulative Fix Pack, ein Service Pack oder eine Produktversion. Die endgültige Fehlerbehebung wird mit dem nächsten CFP bereitgestellt.

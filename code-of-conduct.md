@@ -1,7 +1,7 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 65%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 65%
 
 ## Adobe
 
-Um eine offene und einladende Umgebung zu fördern, verpflichten sich die Mitarbeiter und Betreuer, die Teilnahme am Projekt und an der Community zu einem belästigungsfreien Erlebnis für alle zu machen, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönlichem Erscheinungsbild, Rasse, Religion oder sexueller Identität und Orientierung.
+Um eine offene und einladende Umgebung zu fördern, verpflichten sich Mitarbeiter und Betreuer, die Teilnahme am Projekt und an der Community zu einem belästigungsfreien Erlebnis für alle zu machen. Dieses Versprechen gilt unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönlichem Erscheinungsbild, Rasse, Religion oder sexueller Identität und Orientierung.
 
 ## Adobe
 
@@ -33,7 +33,7 @@ Zu Beispielen für inakzeptables Verhalten von Teilnehmern gehören:
 
 Projektverantwortliche haben die Aufgabe, die Standards des akzeptablen Verhaltens zu verdeutlichen, und es wird erwartet, dass sie als Reaktion auf Fälle von inakzeptablem Verhalten geeignete und angemessene Gegenmaßnahmen ergreifen.
 
-Projektverantwortliche haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen, Probleme und andere Beiträge zu entfernen, zu bearbeiten oder abzulehnen, die nicht mit diesem Verhaltenskodex übereinstimmen. Oder um jeden Mitwirkenden vorübergehend oder dauerhaft für andere Verhaltensweisen zu verbieten, die er für unangemessen, bedrohlich, beleidigend oder schädlich hält.
+Projektverantwortliche haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen und Probleme zu entfernen, zu bearbeiten oder abzulehnen, die nicht mit diesem Verhaltenskodex übereinstimmen. Oder um jeden Mitwirkenden vorübergehend oder dauerhaft für andere Verhaltensweisen zu verbieten, die er für unangemessen, bedrohlich, beleidigend oder schädlich hält.
 
 ## Anwendungsbereich
 
