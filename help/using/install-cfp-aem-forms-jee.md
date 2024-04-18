@@ -1,12 +1,12 @@
 ---
 title: Installieren von Cumulative Fix Packs in AEM Forms JEE
-description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Pack (CFP) auf AEM Forms JEE.
+description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Packs (CFP) für AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '909'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
    Der Installationsassistent wird gestartet, um Sie durch die Installation zu führen.
 
 1. Klicken Sie im Begrüßungsbildschirm auf **[!UICONTROL Weiter]**.
-1. Überprüfen Sie im Bildschirm &quot;Installationsordner auswählen&quot;, ob der angezeigte Standardspeicherort für Ihre vorhandene Installation korrekt ist. Oder klicken Sie auf **[!UICONTROL Durchsuchen]** , um den alternativen Ordner auszuwählen, in dem AEM [!DNL Forms] installiert ist, klicken Sie auf **[!UICONTROL Nächste]**.
+1. Überprüfen Sie im Bildschirm „Installationsordner auswählen“, ob der angezeigte Standardspeicherort für Ihre vorhandene Installation korrekt ist. Oder klicken Sie auf **[!UICONTROL Durchsuchen]**, um den alternativen Ordner auszuwählen, in dem AEM [!DNL Forms] installiert ist. Klicken Sie anschließend auf **[!UICONTROL Weiter]**.
 1. Lesen Sie die Zusammenfassung der Schnellkorrektur und klicken Sie auf **[!UICONTROL Weiter]**.
 1. Lesen Sie die Informationen in der Zusammenfassung vor der Installation und klicken Sie auf **[!UICONTROL Installieren]**.
 1. Wenn die Installation abgeschlossen ist, klicken Sie auf **[!UICONTROL Weiter]**, um die Schnellkorrektur-Updates auf Ihre installierten Dateien anzuwenden.
