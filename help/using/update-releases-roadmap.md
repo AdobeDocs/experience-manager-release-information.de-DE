@@ -2,9 +2,9 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
+source-git-commit: f2d1c4df7e8313c622b8ffde1dab9a2b8c117ff6
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '484'
 ht-degree: 91%
 
 ---
@@ -27,12 +27,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [13323](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13323) | Automatisches Update | 1. September 2023 | Aktualisiert |
-| Wartungsversion [13420](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-9-0#release-13420) | Automatisches Update | 18.–20. September 2023 | Aktualisiert |
-| Neue Funktionen [2023.9.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0) | Funktionsaktivierung | 28. September 2023 | Aktiviert |
-| Wartungsversion [13665](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13665) | Automatisches Update | 2.–5. Oktober 2023 | Aktualisiert |
-| Wartungsversion [13804](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-10-0#release-13804) | Automatisches Update | 16.–19. Oktober 2023 | Aktualisiert |
-| Neue Funktionen [2023.10.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0) | Funktionsaktivierung | 26. Oktober 2023 | Aktiviert |
 | Wartungsversion [14029](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | Automatisches Update | 30. Oktober–2. November 2023 | Aktualisiert |
 | Wartungsversion [14227](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | Automatisches Update | 13.–16. November 2023 | Aktualisiert |
 | Neue Funktionen [2023.11.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | Funktionsaktivierung | 30. November 2023 | Aktiviert |
@@ -41,15 +35,15 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen [2024.1.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | Funktionsaktivierung | 25. Januar 2024 | Aktiviert |
 | Wartungsversion [15262](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Automatisches Update | 11.-13. März 2024 | Aktualisiert |
 | Wartungsversion [15575](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Automatisches Update | 19.–21. März 2024 | Aktualisiert |
-| Neue Funktionen [2024.3.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | Freitag, 11. April 2024 | Aktiviert |
-| Wartungsversion [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisches Update | 8.–15. April 2024 | Aktualisiert |
+| Neue Funktionen [2024.3.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Funktionsaktivierung | Freitag, 11. April 2024 | Aktiviert |
+| Wartungsversion [15860](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisches Update | 8.–15. April 2024 | Aktualisiert |
+| Wartungsversion [15977](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 20.-24. April 2024 | Aktualisiert |
+| Neue Funktionen [2024.4.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 25. April 2024 | Aktiviert |
 
 ### Bevorstehende Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [15977](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 20.-24. April 2024 | Ziel |
-| Neue Funktionen 2024.4.0 | Funktionsaktivierung | 25. April 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 6.-8. Mai 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 20.-22. Mai 2024 | Ziel |
 | Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
@@ -84,6 +78,6 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 >[!MORELIKETHIS]
 >
 >* [EOL-Matrix](https://helpx.adobe.com/de/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)-Versionen und Updates
+>* [[!DNL Experience Manager] ](https://experienceleague.adobe.com/de/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates)-Versionen und Updates
 >* Informationen und Support für [[!DNL Experience Manager] ](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service)
 >* Definitionen von [[!DNL Experience Manager] ](/help/using/update-release-vehicle-definitions.md)-Aktualisierungsversionen
