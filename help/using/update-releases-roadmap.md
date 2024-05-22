@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ef3f59181fd7087d29143779c2fe646f4b90021e
-workflow-type: ht
-source-wordcount: '486'
-ht-degree: 100%
+source-git-commit: 5bbd2b76be333b2db3fa2ad59967700305150b45
+workflow-type: tm+mt
+source-wordcount: '488'
+ht-degree: 99%
 
 ---
 
@@ -39,13 +39,13 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [15860](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisches Update | 8.–15. April 2024 | Aktualisiert |
 | Wartungsversion [15977](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | Automatisches Update | 20.–24. April 2024 | Aktualisiert |
 | Neue Funktionen [2024.4.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 25. April 2024 | Aktiviert |
-| Wartungsversion [16145](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisches Update | 6.-8. Mai 2024 | Ziel |
+| Wartungsversion [16145](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | Automatisches Update | 6.-8. Mai 2024 | Ziel |
 
 ### Bevorstehende Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | 27.–29. Mai 2024 | Ziel |
+| Wartungsversion [16357](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 27.–29. Mai 2024 | Ziel |
 | Neue Funktionen 2024.5.0 | Funktionsaktivierung | 30. Mai 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 10.–12. Juni 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 24.–26. Juni 2024 | Ziel |
