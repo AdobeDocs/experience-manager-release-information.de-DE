@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f2d43c2fa0ac3ba3b66bbb3bac69b4c54200b037
-workflow-type: ht
-source-wordcount: '488'
-ht-degree: 100%
+source-git-commit: b8d32035318004de0646e47ec4289529616db564
+workflow-type: tm+mt
+source-wordcount: '468'
+ht-degree: 98%
 
 ---
 
@@ -27,14 +27,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [14029](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14029) | Automatisches Update | 30. Oktober–2. November 2023 | Aktualisiert |
-| Wartungsversion [14227](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0#release-14227) | Automatisches Update | 13.–16. November 2023 | Aktualisiert |
-| Neue Funktionen [2023.11.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0) | Funktionsaktivierung | 30. November 2023 | Aktiviert |
-| Wartungsversion [14697](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0#release-14697) | Automatisches Update | 11.–14. Dezember 2023 | Aktualisiert |
-| Neue Funktionen [2023.12.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0) | Funktionsaktivierung | 14. Dezember 2023 | Aktiviert |
-| Neue Funktionen [2024.1.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-1-0) | Funktionsaktivierung | 25. Januar 2024 | Aktiviert |
-| Wartungsversion [15262](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15262) | Automatisches Update | 11.-13. März 2024 | Aktualisiert |
-| Wartungsversion [15575](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | Automatisches Update | 19.–21. März 2024 | Aktualisiert |
 | Neue Funktionen [2024.3.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | Funktionsaktivierung | Freitag, 11. April 2024 | Aktiviert |
 | Wartungsversion [15860](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | Automatisches Update | 8.–15. April 2024 | Aktualisiert |
 | Wartungsversion [15977](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | Automatisches Update | 20.–24. April 2024 | Aktualisiert |
@@ -51,7 +43,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion | Automatisches Update | 24.–26. Juni 2024 | Ziel |
 | Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 8.–10. Juli 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 22.-24. Juli 2024 | Ziel |
 | Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 5.-7. August 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 19.-21. August 2024 | Ziel |
+| Neue Funktionen 2024.8.0 | Funktionsaktivierung | Freitag, 29. August 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 2.-4. September 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 16.-18. September 2024 | Ziel |
+| Neue Funktionen 2024.9.0 | Funktionsaktivierung | Freitag, 26. September 2024 | Ziel |
 
 ## [!DNL Experience Manager] On-Premise- und Managed Services {#aem-on-prem-managed-services}
 
