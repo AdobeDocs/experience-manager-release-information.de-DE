@@ -3,9 +3,9 @@ title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b8d32035318004de0646e47ec4289529616db564
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '468'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,14 +43,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion | Automatisches Update | 24.–26. Juni 2024 | Ziel |
 | Neue Funktionen 2024.6.0 | Funktionsaktivierung | 27. Juni 2024 | Ziel |
 | Wartungsversion | Automatisches Update | 8.–10. Juli 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 22.-24. Juli 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 22.–24. Juli 2024 | Ziel |
 | Neue Funktionen 2024.7.0 | Funktionsaktivierung | 25. Juli 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 5.-7. August 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 19.-21. August 2024 | Ziel |
-| Neue Funktionen 2024.8.0 | Funktionsaktivierung | Freitag, 29. August 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 2.-4. September 2024 | Ziel |
-| Wartungsversion | Automatisches Update | 16.-18. September 2024 | Ziel |
-| Neue Funktionen 2024.9.0 | Funktionsaktivierung | Freitag, 26. September 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 5.–7. August 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 19.–21. August 2024 | Ziel |
+| Neue Funktionen 2024.8.0 | Funktionsaktivierung | 29. August 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 2.–4. September 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 16.–18. September 2024 | Ziel |
+| Neue Funktionen 2024.9.0 | Funktionsaktivierung | 26. September 2024 | Ziel |
 
 ## [!DNL Experience Manager] On-Premise- und Managed Services {#aem-on-prem-managed-services}
 
