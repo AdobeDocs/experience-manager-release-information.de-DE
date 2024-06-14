@@ -4,9 +4,9 @@ description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprec
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 59688701f3ec75fa204bf26a0ad2239b4d58a179
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3030'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
    </tr>
   </tr>
   <tr>
-    <td>13. Juni 2024</td>
+    <td>13. Juni 2024</td>
     <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">AEM Forms Service Pack 20 Forms-Add-in-Paket für AEM 6.5.21.0</a></td>
     <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">AEM 6.5.21.0</a></td>
     <td>
@@ -66,7 +66,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp21_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE-Patch-Installationsprogramm: 6.5.0-0087 <br/><p>AEM Forms-Add-in-Pakete: 6.0.1244 </p></td>
+    <td><p>Patch-Installationsprogramm für AEM Forms JEE: 6.5.0-0087 <br/><p>AEM Forms-Add-in-Pakete: 6.0.1244 </p></td>
    </tr>
   <tr>
     <td>08. März 2024</td>
