@@ -1,21 +1,16 @@
 ---
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 43%
+source-wordcount: '177'
+ht-degree: 100%
 
 ---
 # MIT-Lizenz
 
 © Copyright 2021 Adobe. All rights reserved.
 
-Jede Person, die eine Kopie dieser Software und der dazugehörigen Dokumentationsdateien (die &quot;Software&quot;) erhält, erhält kostenlos die Erlaubnis, die Software uneingeschränkt zu nutzen. Dies umfasst uneingeschränkt die Rechte zur Nutzung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software. Und um Personen, denen die Software bereitgestellt wird, dies zu gestatten, sofern folgende Bedingungen erfüllt sind:
+Diese Lizenz gewährt jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, die kostenlose Erlaubnis, die Software uneingeschränkt zu nutzen. Diese Lizenz umfasst uneingeschränkt die Rechte zur Nutzung, zum Kopieren, Bearbeiten, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software. Weiterhin wird dies Personen gestattet, denen die Software bereitgestellt wird, sofern folgende Bedingungen erfüllt sind:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Der obige Hinweis auf das Urheberrecht und dieser Genehmigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
-DIE SOFTWARE WIRD &quot;WIE VORHANDEN&quot;BEREITGESTELLT, OHNE GEWÄHRLEISTUNG JEGLICHER ART, AUSDRÜCKLICH ODER IMPLIZIERT. DIES UMFASST, IST ABER NICHT AUF DIE GARANTIEN DER HANDELBARKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG BESCHRÄNKT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+DIE SOFTWARE WIRD „SO WIE SIE IST“ OHNE GEWÄHRLEISTUNG JEGLICHER ART, WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND, ZUR VERFÜGUNG GESTELLT. SIE UMFASST, IST ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL SIND DIE AUTORINNEN ODER AUTOREN ODER DIE URHEBERRECHTSINHABERINNEN ODER -INHABER FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE VERBINDLICHKEITEN VERANTWORTLICH. UNABHÄNGIG DAVON, OB ES SICH UM EINE VERTRAGLICHE TÄTIGKEIT, EINE UNERLAUBTE HANDLUNG ODER EINE SONSTIGE HANDLUNG HANDELT, DIE DURCH DIE ODER AUS DER SOFTWARE ODER IN VERBINDUNG MIT DIESER ENTSTEHT. ODER DIE NUTZUNG ODER DER SONSTIGE UMGANG MIT DER SOFTWARE.

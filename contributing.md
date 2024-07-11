@@ -1,8 +1,8 @@
 ---
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 67%
+source-wordcount: '482'
+ht-degree: 59%
 
 ---
 # Beiträge zur Adobe Experience Manager-Dokumentation
@@ -40,9 +40,9 @@ Mithilfe von Problemen können Sie Ihre Verbesserungsidee für Dokumente einfach
 
 ### Erstellen einer Pull-Anfrage {#create-a-pull-request}
 
-Wenn Sie ein Problem sehen und genau wissen, wie Sie es beheben können, sollten Sie eine Pull-Anfrage erstellen. Mithilfe von Pull-Anfragen können Sie Ihre eigenen Änderungen an der Dokumentation vornehmen, die dann von einem Mitglied des AEM Docs Teams zur Aufnahme geprüft werden. Einfaches Klicken **Diese Seite bearbeiten** -Link oben im rechten Navigationsbereich auf jeder Seite, damit Sie die vorgeschlagenen Änderungen vornehmen und die Pull-Anforderung erstellen können.
+Wenn Sie ein Problem sehen und genau wissen, wie Sie es beheben können, sollten Sie eine Pull-Anfrage erstellen. Mithilfe von Pull-Anfragen können Sie eigene Änderungen an der Dokumentation vornehmen. Ein AEM Docs Team-Mitglied prüft diese Änderungen zur Aufnahme. Einfaches Klicken **Diese Seite bearbeiten** -Link oben im rechten Navigationsbereich auf jeder Seite, damit Sie die vorgeschlagenen Änderungen vornehmen und die Pull-Anforderung erstellen können.
 
-Für Pull-Anfragen muss eine [Lizenzvereinbarung für Mitwirkende (CLA) unterzeichnet werden](https://opensource.adobe.com/cla.html). Damit kann Adobe Ihre Beiträge als Teil des Projekts weitervertreiben. Sie senden nur einmal eine Adobe-CLA, also sind Sie bereit, zu gehen, wenn Sie bereits eine eingereicht haben!
+Unterschrieben [Lizenzvereinbarung für Mitwirkende oder CLA](https://opensource.adobe.com/cla.html) muss allen Pull-Anfragen beiliegen. Diese Notwendigkeit gibt der Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu verteilen. Sie können eine Adobe CLA nur einmal einreichen. Wenn Sie also bereits eine eingereicht haben, können Sie loslegen!
 
 ### Kurze Videoeinführung
 
@@ -58,4 +58,4 @@ Jeder Beitrag wird begrüßt und überprüft, wenn er im öffentlichen Repositor
 
 ## Weiterführende Informationen
 
-Weitere Informationen zur Verwendung der GitHub-Autoren-Plattform finden Sie im [Handbuch für Mitwirkende an Adobe Docs](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Weitere Informationen zur Verwendung der GitHub-Autoren-Plattform finden Sie im [Handbuch für Mitwirkende an Adobe Docs](https://experienceleague.adobe.com/de/docs/contributor/contributor-guide/introduction).

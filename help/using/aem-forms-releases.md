@@ -3,16 +3,16 @@ title: AEM Forms-Versionen
 description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprechenden Paketen.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 3671b89ee5b2b9052be0233b6534e9eee5516ba1
-workflow-type: ht
-source-wordcount: '3052'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '3030'
+ht-degree: 93%
 
 ---
 
 # AEM [!DNL Forms]-Versionen {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] ist ein Programm, das in AEM bereitgestellt wird. Die Lösung erweitert die Erlebnisse für Web und Mobilgeräte auf Formulare und Dokumente für Unternehmen, wodurch Firmen komplizierte digitale Interaktionen durchführen und gleichzeitig das Benutzererlebnis verbessern und ihre Reichweite vergrößern können. AEM [!DNL Forms] (vorkonfiguriert) ist im AEM-Schnellstart enthalten, verfügt jedoch über einen beschränkten Satz von Funktionen. Das Add-in-Paket für AEM [!DNL Forms] enthält erweiterte Funktionen wie die Integration in [!DNL Adobe Analytics], [!DNL Adobe Sign], Dokumentendienste, Workflow-Engine und viele mehr.
+Adobe Experience Manager [!DNL Forms] ist ein Programm, das in AEM bereitgestellt wird. Sie verbessert die Web- und Mobilerfahrung für Unternehmensformulare und -dokumente. Mit dieser Funktion können Unternehmen komplexe digitale Interaktionen durchführen, Benutzererlebnisse verbessern und ihre Geschäftserfahrung erweitern. AEM [!DNL Forms] (vorkonfiguriert) ist im AEM-Schnellstart enthalten, verfügt jedoch über einen beschränkten Satz von Funktionen. Das Add-in-Paket für AEM [!DNL Forms] enthält erweiterte Funktionen wie die Integration in [!DNL Adobe Analytics], [!DNL Adobe Sign], Dokumentendienste, Workflow-Engine und viele mehr.
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp21_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>Patch-Installationsprogramm für AEM Forms JEE: 6.5.0-0087 <br/><p>AEM Forms-Add-in-Pakete: 6.0.1244 </p></td>
+    <td><p>Patch-Installationsprogramm für AEM Forms JEE: 6.5.0-0087 <br/><p>AEM Forms Packages-Add-In: 6.0.1244 </p></td>
    </tr>
   <tr>
     <td>08. März 2024</td>
@@ -103,7 +103,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>Patch-Installationsprogramm für AEM Forms auf JEE: 6-5-0-0083 <br/><p>AEM Forms-Add-in-Pakete: 6.0.1192 </p></td>
+    <td><p>Patch-Installationsprogramm für AEM Forms auf JEE: 6-5-0-0083 <br/><p>AEM Forms Packages-Add-In: 6.0.1192 </p></td>
    </tr>
   <tr>
     <td>15. Dezember 2023</td>
@@ -156,7 +156,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp19_x64/aemforms_designer_6_5_0_wws_win.zip">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>Patch-Installationsprogramm für AEM Forms auf JEE: aemforms-6-5-0-0078 <br/><p>AEM Forms-Add-in-Pakete: 6.0.1120 </p></td>
+    <td><p>Patch-Installationsprogramm für AEM Forms auf JEE: aemforms-6-5-0-0078 <br/><p>AEM Forms Packages-Add-In: 6.0.1120 </p></td>
    </tr>
    <tr>
     <td>31. August 2023</td>
@@ -196,7 +196,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       </ul> 
       </td>
     <td><p>Vollinstallationsprogramm für AEM Forms auf JEE: 
-    6-5-0-20230913-1-12345 <br/><p>Patch-Installationsprogramm für AEM Forms auf JEE: aemforms-6-5-0-0069<br/><p>AEM Forms-Add-in-Pakete: 6.5.18.0 </p></td>
+    6-5-0-20230913-1-12345 <br/><p>Patch-Installationsprogramm für AEM Forms auf JEE: aemforms-6-5-0-0069<br/><p>AEM Forms Packages-Add-In: 6.5.18.0 </p></td>
    </tr>
    <tr>
     <td>1. Juni 2023</td>
@@ -228,7 +228,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6-5-0-0065<br/><p>AEM Forms-Add-in-Pakete: 6.0.968</p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6-5-0-0065<br/><p>AEM Forms Packages-Add-In: 6.0.968</p></td>
    </tr>
    <tr>
     <td>2. März 2023</td>
@@ -260,7 +260,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp16_650_038/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0062<br/><p>AEM Forms-Add-in-Pakete: 6.0.914</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0062<br/><p>AEM Forms Packages-Add-In: 6.0.914</p></td>
    </tr>
    <tr>
     <td>01. Dezember 2022</td>
@@ -292,7 +292,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_5_0_wws_win.zip">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0057<br /> <p>AEM Forms-Add-in-Pakete: 6.0.856</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0057<br /> <p>AEM Forms Packages-Add-In: 6.0.856</p></td>
    </tr>
    <tr>
     <td>05. September 2022</td>
@@ -320,7 +320,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp">Installationsprogramm in deutscher Sprache</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp">Installationsprogramm in japanischer Sprache</a> </li>
       </ul> </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0053<br /> <p>AEM Forms-Add-in-Pakete: 6.0.772</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0053<br /> <p>AEM Forms Packages-Add-In: 6.0.772</p></td>
    </tr>
    <tr>
     <td>02. Juni 2022</td>
@@ -348,7 +348,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_German_Cumulative_QF.msp">Installationsprogramm in deutscher Sprache</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_Japanese_Cumulative_QF.msp">Installationsprogramm in japanischer Sprache</a> </li>
       </ul> </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0044<br /> <p>AEM Forms-Add-in-Pakete: 6.0.718</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0044<br /> <p>AEM Forms Packages-Add-In: 6.0.718</p></td>
    </tr>
    <tr>
     <td>03. März 2022</td>
@@ -384,7 +384,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>Forms Workbench</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20220303-3-12345/Workbench_DVD.zip">Installationsprogramm in englischer Sprache</a> </li>
       </ul> </td>
-    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0040<br /> <p>AEM Forms-Add-in-Pakete: 6.0.640</p></td>
+    <td><p>AEM Forms – JEE-Installationsprogramm: AEMForms-6.5.0-0040<br /> <p>AEM Forms Packages-Add-In: 6.0.640</p></td>
    </tr>
    <tr>
     <td>20. Dezember 2021</td>
@@ -405,7 +405,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a>
       </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0038<br /> <p>AEM Forms-Add-in-Pakete: 6.0.566-NPR-37836-B0001</p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0038<br /> <p>AEM Forms Packages-Add-In: 6.0.566-NPR-37836-B0001</p></td>
    </tr>
    <tr>
     <td>03. Dezember 2021</td>
@@ -430,7 +430,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0037<br /> </p> AEM Forms-Add-in-Pakete: 6.0.566</p> <p>Client-SDK: 6.0.566<br /></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0037<br /> </p> AEM Forms Packages-Add-In: 6.0.566</p> <p>Client-SDK: 6.0.566<br /></td>
    </tr>
    <tr>
    <tr>
@@ -458,7 +458,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <br><b>SDK</b></br>
       <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms Client SDK</a></li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0032<br /> </p> AEM Forms-Add-in-Pakete: 6.0.490</p> <p>Client-SDK: 6.0.490<br /> </p><p>AEM Forms-Kompatibilitätspaket: 2.0.40</p><p>AEM Forms Designer-Patch: 650.017</p><p>AEM Forms für JEE-Einbettungspaket: 5.0.18</p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0032<br /> </p> AEM Forms Packages-Add-In: 6.0.490</p> <p>Client-SDK: 6.0.490<br /> </p><p>AEM Forms-Kompatibilitätspaket: 2.0.40</p><p>AEM Forms Designer-Patch: 650.017</p><p>AEM Forms für JEE-Einbettungspaket: 5.0.18</p></td>
    </tr>
    <tr>
     <td>03. Juni 2021</td>
@@ -484,7 +484,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0028<br /> </p> AEM Forms-Add-in-Pakete: 6.0.434</p> <p>Client-SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>AEM Forms für JEE-Einbettungspaket: 5.0.14</p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0028<br /> </p> AEM Forms Packages-Add-In: 6.0.434</p> <p>Client-SDK: 6.0.434<br /> </p><p>AEM Forms Workbench: 6.5.0.20210524.1.938669</p><p>AEM Forms für JEE-Einbettungspaket: 5.0.14</p></td>
    </tr>
    <tr>
     <td>18. März 2021</td>
@@ -510,11 +510,11 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0025<br /> </p> AEM Forms-Add-in-Pakete: 6.0.334</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.36</p><p>Client-SDK: 6.0.334<br /> </p><p>AEM Forms Designer-Patch: 650.014</p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0025<br /> </p> AEM Forms Packages-Add-In: 6.0.334</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.36</p><p>Client-SDK: 6.0.334<br /> </p><p>AEM Forms Designer-Patch: 650.014</p></td>
    </tr>
    <tr>
    <tr>
-    <td>03. Dezember 2020</td>
+    <td>3. Dezember 2020</td>
     <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/service-pack/6-5-7#forms-6570">AEM 6.5 Forms Service Pack 7 – Forms-Add-in-Paket für AEM 6.5.7.0</a></td>
     <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/service-pack/6-5-7">AEM 6.5.7.0</a></td>
     <td>
@@ -537,7 +537,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere® AIX®</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0020<br /> </p> AEM Forms-Add-in-Pakete: 6.0.234</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.32</p><p>Client-SDK: 6.0.234<br /> </p></td>
+    <td><p>AEM Forms JEE-Installationsprogramm: AEMForms-6.5.0-0020<br /> </p> AEM Forms Packages-Add-In: 6.0.234</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.32</p><p>Client-SDK: 6.0.234<br /> </p></td>
    </tr>
    <tr>
     <td>3. September 2020</td>
@@ -551,7 +551,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>AEM Forms JEE-Installationsprogramm [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0018<br /> </p> AEM Forms-Add-in-Pakete: 6.0.192</p> <p>Client-SDK: 6.0.192<br /> </p> <p>AEM Forms Designer-Patch: 650.012<br /> </p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0018<br /> </p> AEM Forms Packages-Add-In: 6.0.192</p> <p>Client-SDK: 6.0.192<br /> </p> <p>AEM Forms Designer-Patch: 650.012<br /> </p> </td>
    </tr>
    <tr>
     <td>4. Juni 2020</td>
@@ -565,7 +565,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>AEM Forms JEE-Installationsprogramm [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0014<br /> </p> <p>AEM Forms-Add-in-Pakete: 6.0.160</p> <p>Client-SDK: 6.0.160<br /> </p> <p>AEM Forms Designer-Patch: 650.008<br /> </p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0014<br /> </p> <p>AEM Forms Packages-Add-In: 6.0.160</p> <p>Client-SDK: 6.0.160<br /> </p> <p>AEM Forms Designer-Patch: 650.008<br /> </p> </td>
    </tr>
    <tr>
     <td>5. März 2020</td>
@@ -581,7 +581,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>AEM Forms JEE-Installationsprogramm [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0011<br /> </p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26<br /> AEM Forms-Add-in-Pakete: 6.0.138</p> <p>Client-SDK: 6.0.136<br /> </p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956<br /> </p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0011<br /> </p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26<br /> AEM Forms Packages-Add-In: 6.0.138</p> <p>Client-SDK: 6.0.136<br /> </p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956<br /> </p> </td>
    </tr>
    <tr>
     <td>12. Dezember 2019</td>
@@ -597,7 +597,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>AEM Forms JEE-Installationsprogramm [1]</li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0007</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26</p> <p>AEM Forms-Add-in-Pakete und Client SDK: 6.0.122</p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956</p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0007</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.26</p> <p>AEM Forms Packages-Add-In und Client SDK: 6.0.122</p> <p>AEM Forms Workbench: 6.5.0.20191119.1.935956</p> </td>
    </tr>
    <tr>
     <td>19. September 2019</td>
@@ -613,7 +613,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li>AEM Forms Client SDK [1]</li>
       <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup></li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0004_3</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.22</p> <p>AEM Forms-Add-in-Pakete und Client SDK: 6.0.106</p> <p>AEM Forms Workbench: 6.5.0.20190917.1.337048</p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0004_3</p> <p>AEM Forms-Kompatibilitätspaket: 2.0.22</p> <p>AEM Forms Packages-Add-In und Client SDK: 6.0.106</p> <p>AEM Forms Workbench: 6.5.0.20190917.1.337048</p> </td>
    </tr>
    <tr>
     <td>3. Juli 2019</td>
@@ -628,7 +628,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://licensing.adobe.com/">AEM Designer-Installationsprogramm</a> <sup>[1]</sup></li>
       <li>AEM Forms JEE-Installationsprogramm<sup> [1]</sup><br /> </li>
      </ul> </td>
-    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0004</p> <p>AEM Forms Designer-Patch: 6.5.0-005</p> <p>AEM Forms-Kompatibilitätspaket:<strong> </strong>1.1.16</p> <p>AEM Forms-Add-in-Pakete: 6.0.88</p> </td>
+    <td><p>AEM Forms JEE-Installationsprogramm: 6.5.0-0004</p> <p>AEM Forms Designer-Patch: 6.5.0-005</p> <p>AEM Forms-Kompatibilitätspaket:<strong> </strong>1.1.16</p> <p>AEM Forms Packages-Add-In: 6.0.88</p> </td>
    </tr>
    <tr>
     <td>08. April 2019</td>
@@ -647,14 +647,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI-Referenz-Site-Paket</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms Gov Referenz-Site-Paket</a></li>
      </ul> </td>
-    <td><p>AEM Forms-Add-in-Paket und Client SDK: 6.0.80</p> <p>Sicherheitskonfigurationspaket für AEM Websphere® Global: 6.5.0.20190329.1.935745</p> <p>AEM Forms-App-Quelle: 5.0.16</p> <p> </p> </td>
+    <td><p>AEM Forms Packages-Add-In und Client SDK: 6.0.80</p> <p>Sicherheitskonfigurationspaket für AEM Websphere® Global: 6.5.0.20190329.1.935745</p> <p>AEM Forms-App-Quelle: 5.0.16</p> <p> </p> </td>
    </tr>
   </tbody>
  </table>
 
 `[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&amp;support-solution=General&amp;support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
-`[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für macOS X-Pakete nicht verfügbar.
+`[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Für das macOS X-Package ist keine PDF Generator-Funktion verfügbar.
 
 `[3]` Das AEM [!DNL Forms]-Kompatibilitätspaket für 6.5.4.0 bleibt mit identisch mit dem für die Version 6.5.3.0.
 
