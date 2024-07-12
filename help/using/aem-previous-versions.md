@@ -90,7 +90,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Nachdem das Paket hochgeladen wurde, installieren Sie es.
 
-1. Suchen Sie in der Package Manager-Benutzeroberfläche das Paket und wählen Sie **[!UICONTROL Installieren]**.
+1. Suchen Sie in der Package Manager-Benutzeroberfläche das Paket und wählen Sie **[!UICONTROL Installieren]** aus.
 
 1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Installieren]**. Die Installation dauert einige Minuten.
 

@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] bietet konsistent neue Funktionen und Verbesserungen zu bestehenden Funktionen. Es bietet Fehlerbehebungen für Benutzer in allen [!DNL Cloud Service], Managed Services und On-Premise-Versionen. In diesem Artikel werden die kommenden Releases von [!DNL Experience Manager] aufgeführt.
+[!DNL Adobe Experience Manager] bietet konsistent neue Funktionen und Verbesserungen zu bestehenden Funktionen. Es bietet Fehlerbehebungen für Benutzer in [!DNL Cloud Service]-, Managed Services- und On-Premise-Versionen. In diesem Artikel werden die kommenden Releases von [!DNL Experience Manager] aufgeführt.
 
 >[!NOTE]
 >

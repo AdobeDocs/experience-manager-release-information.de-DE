@@ -27,7 +27,7 @@ Das AEM [!DNL  Forms JEE]-Paket (aemfd-jee-bundles-package-6.3CFP1; Version 1.0.
 
 ### Weitere Anweisungen für CQ-4208044 {#additional-instructions-for-cq}
 
-Bei Verwendung von AEM 6.3 [!DNL Forms JEE] -Server mit Oracle-Datenbank konfigurieren Sie die folgenden Einstellungen nach der Bereitstellung von CFP1, d. h. nach der Ausführung von Configuration Manager. Diese Einstellung ist erforderlich, um Benutzer, Gruppen und Gruppenmitglieder zu synchronisieren, wenn die Synchronisierung der Unternehmens-Domain ausgeführt wird.
+Wenn Sie den AEM 6.3 [!DNL Forms JEE] -Server mit Oracle-Datenbank verwenden, konfigurieren Sie die folgenden Einstellungen nach der Bereitstellung von CFP1, d. h. nach der Ausführung von Configuration Manager. Diese Einstellung ist erforderlich, um Benutzer, Gruppen und Gruppenmitglieder zu synchronisieren, wenn die Synchronisierung der Unternehmens-Domain ausgeführt wird.
 
 1. Melden Sie sich bei der **Admin**-Benutzeroberfläche an.
 1. Navigieren Sie zu **[!UICONTROL Einstellungen]** > **[!UICONTROL Benutzerverwaltung]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Konfigurationsdateien importieren und exportieren]**

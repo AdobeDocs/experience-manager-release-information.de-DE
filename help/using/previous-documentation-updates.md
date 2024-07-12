@@ -56,7 +56,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>11. Oktober 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Aufgrund von Sicherheitsänderungen in der Adobe Analytics-API ist es nicht mehr möglich, die in AEM enthaltene Version von Activity Map zu verwenden. Siehe <a href="https://experienceleague.adobe.com/de/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Activity Map-Plug-in von Adobe Analytics</a> verwendet werden. </p> </td> 
+   <td><p>Aufgrund von Sicherheitsänderungen in der Adobe Analytics-API ist es nicht mehr möglich, die in AEM enthaltene Version von Activity Map zu verwenden. Siehe <a href="https://experienceleague.adobe.com/de/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Von Adobe Analytics</a> bereitgestelltes Activity Map-Plug-in sollte jetzt verwendet werden. </p> </td> 
   </tr>
   <tr>
    <td>10. Oktober 2019</td> 
@@ -76,7 +76,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>1. Oktober 2019 </td> 
    <td>Handbuch mit Best Practices für AEM Screens-Projekte</td> 
-   <td><p>Dieses neue Handbuch bietet umfassende Erkenntnisse und praktische Ratschläge zum Entwerfen und Bereitstellen geplanter Kundenerlebnisse im Rahmen Ihrer Digital-Signage-Implementierung. Darüber hinaus wird erläutert, wie Sie mithilfe von Best Practices bei der Bereitstellung eines Digital-Signage-Projekts in AEM Screens positive Auswirkungen auf Ihr Unternehmen erzielen können.</p> <p>Siehe <a href="https://experienceleague.adobe.com/de/docs/experience-manager-screens/using/about-guide">Handbuch mit Best Practices für AEM Screens-Projekte</a> für weitere Details.</p> </td> 
+   <td><p>Dieses neue Handbuch bietet umfassende Erkenntnisse und praktische Ratschläge zum Entwerfen und Bereitstellen geplanter Kundenerlebnisse im Rahmen Ihrer Digital-Signage-Implementierung. Darüber hinaus wird erläutert, wie Sie mithilfe von Best Practices bei der Bereitstellung eines Digital-Signage-Projekts in AEM Screens positive Auswirkungen auf Ihr Unternehmen erzielen können.</p> <p>Weitere Informationen finden Sie im <a href="https://experienceleague.adobe.com/de/docs/experience-manager-screens/using/about-guide">Best Practices-Handbuch für AEM Screens-Projekte</a> .</p> </td> 
   </tr>
   <tr>
    <td>25. September 2019</td> 
@@ -121,12 +121,12 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>21. August 2019</td> 
    <td>AEM 6.5 Screens-Benutzerhandbuch</td> 
-   <td>Die Grundlagen der Netzwerkbereitstellung wurden nun um einen neuen Abschnitt erweitert. Siehe <a href="https://experienceleague.adobe.com/de/docs/experience-manager-screens/user-guide/aem-screens-introduction">Benutzerhandbuch</a> für weitere Details.</td> 
+   <td>Die Grundlagen der Netzwerkbereitstellung wurden nun um einen neuen Abschnitt erweitert. Weitere Informationen finden Sie im <a href="https://experienceleague.adobe.com/de/docs/experience-manager-screens/user-guide/aem-screens-introduction">Benutzerhandbuch</a> .</td> 
   </tr>
   <tr>
    <td>20. August 2019</td> 
    <td>Smart-Tags für AEM Assets<br /> </td> 
-   <td>Erfahren Sie mehr <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">Zertifikat aktualisieren</a> nach Ablauf der Frist.</td> 
+   <td>Erfahren Sie, wie Sie das Zertifikat <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">aktualisieren</a>, nachdem es abläuft.</td> 
   </tr>
   <tr>
    <td>2. August 2019</td> 
@@ -136,7 +136,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>25. Juli 2019</td> 
    <td>AEM Assets-Funktionen unter verschiedenen Lizenzen</td> 
-   <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">Liste der Funktionen</a> von AEM Assets, die in einer eigenständigen DAM-Lizenz oder AEM MediaLibrary verfügbar sind, werden für AEM Version 6.5 aktualisiert.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">Die Liste der Funktionen</a> von AEM Assets, die in einer eigenständigen DAM-Lizenz oder in AEM MediaLibrary verfügbar sind, wird für AEM Version 6.5 aktualisiert.<br /> </td> 
   </tr>
   <tr>
    <td>12. Juli 2019</td> 
@@ -237,7 +237,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
 
 ## Legacy-Inhalte {#legacy-content}
 
-Ab dem 01. Mai 2023 wurden ältere Versionen AEM Dokumentation an einen neuen Speicherort unter [Ältere Versionen von Adobe Experience Manager, CQ und CRX](https://experienceleague.adobe.com/de/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+Ab dem 01. Mai 2023 wurden ältere Versionen AEM Dokumentation an einen neuen Speicherort unter [Ältere Versionen von Adobe Experience Manager, CQ und CRX](https://experienceleague.adobe.com/de/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) verschoben.
 
 Die folgenden Versionen wurden verschoben:
 
