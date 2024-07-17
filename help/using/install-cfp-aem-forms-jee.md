@@ -1,12 +1,12 @@
 ---
 title: Installieren von Cumulative Fix Packs in AEM Forms JEE
-description: Zusammenfassung der Schritte zum Installieren und Konfigurieren des Cumulative Fix Packs (CFP) auf AEM Forms JEE.
+description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Packs (CFP) für AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '905'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ Das AEM [!DNL  Forms JEE]-Paket (aemfd-jee-bundles-package-6.3CFP1; Version 1.0.
 
 ### Weitere Anweisungen für CQ-4208044 {#additional-instructions-for-cq}
 
-Wenn Sie den AEM 6.3 [!DNL Forms JEE] -Server mit Oracle-Datenbank verwenden, konfigurieren Sie die folgenden Einstellungen nach der Bereitstellung von CFP1, d. h. nach der Ausführung von Configuration Manager. Diese Einstellung ist erforderlich, um Benutzer, Gruppen und Gruppenmitglieder zu synchronisieren, wenn die Synchronisierung der Unternehmens-Domain ausgeführt wird.
+Konfigurieren Sie bei Verwendung des AEM 6.3 [!DNL Forms JEE]-Servers mit einer Oracle-Datenbank die folgenden Einstellungen nach der Bereitstellung von CFP1, d. h. nach der Ausführung von Configuration Manager. Diese Einstellung ist erforderlich, um Benutzende, Gruppen und Gruppenmitglieder zu synchronisieren, wenn die Synchronisierung der Unternehmens-Domain ausgeführt wird.
 
 1. Melden Sie sich bei der **Admin**-Benutzeroberfläche an.
 1. Navigieren Sie zu **[!UICONTROL Einstellungen]** > **[!UICONTROL Benutzerverwaltung]** > **[!UICONTROL Konfiguration]** > **[!UICONTROL Konfigurationsdateien importieren und exportieren]**
 1. Exportieren Sie die Datei „config.xml“.
-1. Ändern Sie den Eintrag für &quot;`groupMemberDBQueryBatchSize`&quot; unter Ihren Domänenkonfigurationen in *config.xml*. Beispieleintrag:
+1. Ändern Sie den Eintrag für „`groupMemberDBQueryBatchSize`“ in Ihren Domain-Konfigurationen in *config.xml*. Beispieleintrag:
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
 1. So legen Sie die Zeitüberschreitung für alle Service-Vorgänge auf 600 Sekunden fest:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   set „`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`“
 
-1. Setzen Sie den folgenden Befehl zum Einstellen des Zeitüberschreitungwerts für den Vorgang `DesigntimeService` auf 500 Sekunden:
+1. Verwenden Sie den folgenden Befehl zum Einstellen des Zeitüberschreitungwerts für den Vorgang `DesigntimeService` auf 500 Sekunden:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set „`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`“
 
-1. Setzen Sie den folgenden Befehl zum Einstellen des Zeitüberschreitungwerts für den Vorgang `DesigntimeService's previewLCA` auf 700 Sekunden:
+1. Verwenden Sie den folgenden Befehl zum Einstellen des Zeitüberschreitungwerts für den Vorgang `DesigntimeService's previewLCA` auf 700 Sekunden:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set „`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`“
 
-1. So legen Sie die `DSC operations` (z. B. Laden oder Installieren) auf 600 Sekunden fest:
+1. So legen Sie die `DSC operations` (z. B. Laden oder Installieren) auf 600 Sekunden fest:
 
-   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set „`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`“
 
 ## Installieren und Konfigurieren von AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ Mit den folgenden Befehlen legen Sie den Wert für die Zeitüberschreitung auf K
 
    **Windows**
 
-   Navigieren Sie zum Ordner auf dem Installationsdatenträger oder zum Ordner, in den Sie das Installationsprogramm kopiert haben.
+   Wechseln Sie zum Verzeichnis auf dem Installationsdatenträger oder zu dem Ordner, in das bzw. den Sie das Installationsprogramm kopiert haben:
 
    * (`Windows 32-bit`): `Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`): `Disk1\InstData\Windows_64bit\VM`

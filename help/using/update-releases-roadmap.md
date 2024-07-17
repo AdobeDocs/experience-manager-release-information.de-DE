@@ -3,16 +3,16 @@ title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] bietet konsistent neue Funktionen und Verbesserungen zu bestehenden Funktionen. Es bietet Fehlerbehebungen für Benutzer in [!DNL Cloud Service]-, Managed Services- und On-Premise-Versionen. In diesem Artikel werden die kommenden Releases von [!DNL Experience Manager] aufgeführt.
+Für [!DNL Adobe Experience Manager] werden kontinuierlich neue Funktionen und Verbesserungen bestehender Funktionen zur Verfügung gestellt,  aber auch Fehlerbehebungen für Benutzende von [!DNL Cloud Service], Managed Services und On-Premise-Versionen. In diesem Artikel werden die kommenden Versionen von [!DNL Experience Manager] aufgeführt.
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 Produktaktualisierungen werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
+Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|

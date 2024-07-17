@@ -3,9 +3,9 @@ title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Die auf dieser Seite aufgeführten Versionen von [!DNL Adobe Experience Manager]
 Entscheiden Sie vor dem Download des Pakets, wer den Inhalt nutzen wird. Diese Entscheidung bestimmt die Art der Bereitstellung:
 
 * Entwicklerinnen und Entwickler können eine lokale Installation für einen schnellen Überblick durchführen.
-* Für umfassendere Anforderungen an die organisatorische Dokumentation empfiehlt Adobe, das Paket auf einer intern zugänglichen, produktionsfremden AEM-Autoreninstanz bereitzustellen.
+* Wird die Dokumentation auf breiterer Basis in der Organisation benötigt, empfiehlt Adobe, das Paket auf einer intern zugänglichen, nicht produktionsbezogenen AEM-Autoreninstanz bereitzustellen.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Nachdem das Paket hochgeladen wurde, installieren Sie es.
 
-1. Suchen Sie in der Package Manager-Benutzeroberfläche das Paket und wählen Sie **[!UICONTROL Installieren]** aus.
+1. Navigieren Sie in der Paket-Manager-UI zu dem Paket und wählen Sie **[!UICONTROL Installieren]**.
 
 1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Installieren]**. Die Installation dauert einige Minuten.
 
