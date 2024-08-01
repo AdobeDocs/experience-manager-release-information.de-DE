@@ -3,10 +3,10 @@ title: Frühere Aktualisierungen der Dokumentation
 description: Weitere Informationen zu älteren wichtigen Dokumentationsänderungen und -aktualisierungen für  [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
+source-git-commit: 2aac500e8b094977f5431d213dbe658f5ff58729
+workflow-type: tm+mt
 source-wordcount: '1255'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>11. Oktober 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Aufgrund von Sicherheitsänderungen in der Adobe Analytics-API ist es nicht mehr möglich, die in AEM enthaltene Version von Activity Map zu verwenden. Ab jetzt sollte <a href="https://experienceleague.adobe.com/de/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">das über Adobe Analytics bereitgestellte Activity Map-Plug-in</a> verwendet werden. </p> </td> 
+   <td><p>Aufgrund von Sicherheitsänderungen in der Adobe Analytics-API ist es nicht mehr möglich, die in AEM enthaltene Version von Activity Map zu verwenden. Ab jetzt sollte <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/overlay/launch" target="_blank">das über Adobe Analytics bereitgestellte Activity Map-Plug-in</a> verwendet werden. </p> </td> 
   </tr>
   <tr>
    <td>10. Oktober 2019</td> 
