@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 Produktaktualisierungen werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
+Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 >[!NOTE]
 >
-> Die Veröffentlichungstermine für AEM 6.5 Service Packs werden jetzt einzeln geplant und nicht mehr für die festgelegten vierteljährlichen Zyklen wie zuvor. Bitte bleiben Sie auf dieser Seite über die kommenden Service Pack-Versionen auf dem Laufenden.
+> Die Veröffentlichungstermine für AEM 6.5 Service Packs werden jetzt einzeln geplant und nicht mehr wie zuvor in festgelegten vierteljährlichen Zyklen. Nutzen Sie diese Seite, um über die kommenden Service Pack-Versionen informiert zu bleiben.
 
 >[!NOTE]
 >
