@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 92%
 
 ---
 
@@ -66,7 +66,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs b
 
 >[!NOTE]
 >
-> Die Veröffentlichungstermine für AEM 6.5 Service Packs werden jetzt einzeln geplant und nicht mehr wie zuvor in festgelegten vierteljährlichen Zyklen. Nutzen Sie diese Seite, um über die kommenden Service Pack-Versionen informiert zu bleiben.
+> Die Veröffentlichungstermine für AEM 6.5 Service Packs sind jetzt einzeln geplant und nicht mehr für die festgelegten vierteljährlichen Zyklen wie zuvor. Stellen Sie sicher, dass Sie auf dieser Seite über die kommenden Service Pack-Versionen auf dem Laufenden bleiben.
 
 >[!NOTE]
 >
