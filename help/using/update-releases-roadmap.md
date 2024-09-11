@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 38cb8aa3a4a917db1087dbc36295f745cf3f07bf
+source-git-commit: ef4bfe03707b2ae76899adab06e093e0df21fa52
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 87%
+source-wordcount: '512'
+ht-degree: 93%
 
 ---
 
@@ -68,7 +68,7 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
+Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährliche Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie unter [[!DNL Experience Manager] 6.5 Service Pack-Versionshinweise](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes).
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
@@ -77,10 +77,6 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs b
 | [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 22. Februar 2024 | Aktiviert |
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | Service Pack | 6. Juni 2024 | Aktiviert |
 | [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 21. November 2024 | Target |
-
->[!NOTE]
->
-> Die Veröffentlichungstermine für AEM 6.5 Service Packs sind jetzt einzeln geplant und nicht mehr für die festgelegten vierteljährlichen Zyklen wie zuvor. Stellen Sie sicher, dass Sie auf dieser Seite über die kommenden Service Pack-Versionen auf dem Laufenden bleiben.
 
 >[!NOTE]
 >
