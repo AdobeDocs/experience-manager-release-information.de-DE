@@ -3,9 +3,9 @@ title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: ef4bfe03707b2ae76899adab06e093e0df21fa52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '512'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -35,11 +35,11 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Funktionsversion [2024.6.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-6-0) | Funktionsaktivierung | 27. Juni 2024 | Aktiviert |
 | Wartungsversion [16971](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Automatisches Update | 8.–10. Juli 2024 | Aktualisiert |
 | Wartungsversion [17098](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Automatisches Update | 22.–24. Juli 2024 | Aktualisiert |
-| Funktionsversion [2024.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Funktionsaktivierung | 25. Juli 2024 | Aktiviert |
+| Funktionsversion [2024.7.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Funktionsaktivierung | 25. Juli 2024 | Aktiviert |
 | Wartungsversion [17258](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Automatisches Update | 5.–7. August 2024 | Aktualisiert |
 | Wartungsversion [17465](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisches Update | 19.–21. August 2024 | Aktualisiert |
 | Funktionsversion [2024.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 29. August 2024 | Aktiviert |
-| Wartungsversion [17569](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisches Update | 2.–4. September 2024 | Aktualisiert |
+| Wartungsversion [17569](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisches Update | 2.–4. September 2024 | Aktualisiert |
 
 ### Bevorstehende Versionen {#upcoming}
 
@@ -47,11 +47,11 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 |---|---|---|---|
 | Wartungsversion [17689](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 16.–18. September 2024 | Target |
 | Neue Funktionen 2024.9.0 | Funktionsaktivierung | 26. September 2024 | Target |
-| Wartungsversion | Automatisches Update | 30. September - 2. Oktober 2024 | Target |
-| Wartungsversion | Automatisches Update | 14.-16. Oktober 2024 | Target |
-| Wartungsversion | Automatisches Update | 28.-30. Oktober 2024 | Target |
-| Neue Funktionen 2024.10.0 | Funktionsaktivierung | Freitag, 31. Oktober 2024 | Target |
-| Wartungsversion | Automatisches Update | 11.-13. November 2024 | Ziel |
+| Wartungsversion | Automatisches Update | 30. September – 2. Oktober 2024 | Target |
+| Wartungsversion | Automatisches Update | 14.–16. Oktober 2024 | Target |
+| Wartungsversion | Automatisches Update | 28.–30. Oktober 2024 | Target |
+| Neue Funktionen 2024.10.0 | Funktionsaktivierung | 31. Oktober 2024 | Target |
+| Wartungsversion | Automatisches Update | 11.–13. November 2024 | Target |
 
 >[!CAUTION]
 >
@@ -59,7 +59,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 >
 > Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) CET beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
->* Montag, 25. November 2024 bis Dienstag, 3. Dezember 2024.
+>* Montag, 25. November 2024, bis Dienstag, 3. Dezember 2024.
 >* Das Ende des Ausschlusszeitraums wird in Kürze hinzugefügt.
 
 ## [!DNL Experience Manager] On-Premise- und Managed Services {#aem-on-prem-managed-services}
