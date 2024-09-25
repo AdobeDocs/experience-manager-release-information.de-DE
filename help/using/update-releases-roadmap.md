@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dd035a73bbb70bf5067b15b39cd49472d3a34481
+source-git-commit: 60521ed99a45b4f820611accbc6e907fb17b6065
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 99%
+source-wordcount: '513'
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 > Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) CET beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
 >* Montag, 25. November 2024, bis Dienstag, 3. Dezember 2024.
->* Das Ende des Ausschlusszeitraums wird in Kürze hinzugefügt.
+>* Montag, 16. Dezember 2024 bis Freitag, 3. Januar 2025.
 
 ## [!DNL Experience Manager] On-Premise- und Managed Services {#aem-on-prem-managed-services}
 
