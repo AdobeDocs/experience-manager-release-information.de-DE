@@ -40,7 +40,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [17465](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisches Update | 19.–21. August 2024 | Aktualisiert |
 | Funktionsversion [2024.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 29. August 2024 | Aktiviert |
 | Wartungsversion [17569](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisches Update | 2.–4. September 2024 | Aktualisiert |
-| Wartungsversion [17689](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Automatisches Update | 16.–18. September 2024 | Aktualisiert |
+| Wartungsversion [17689](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Automatisches Update | 16.–18. September 2024 | Aktualisiert |
 
 ### Bevorstehende Versionen {#upcoming}
 
