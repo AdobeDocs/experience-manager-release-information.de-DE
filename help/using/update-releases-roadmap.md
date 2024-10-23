@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 139cdaab2d3d0a7d47809538501a92d13ba4dfdb
+source-git-commit: 449a49c2a13c7657d606aa7c0745f995cc09beb2
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 99%
+source-wordcount: '493'
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [16971](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-16971) | Automatisches Update | 8.–10. Juli 2024 | Aktualisiert |
-| Wartungsversion [17098](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-7-0#release-17098) | Automatisches Update | 22.–24. Juli 2024 | Aktualisiert |
-| Funktionsversion [2024.7.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-7-0) | Funktionsaktivierung | 25. Juli 2024 | Aktiviert |
 | Wartungsversion [17258](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Automatisches Update | 5.–7. August 2024 | Aktualisiert |
 | Wartungsversion [17465](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisches Update | 19.–21. August 2024 | Aktualisiert |
 | Funktionsversion [2024.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) | Funktionsaktivierung | 29. August 2024 | Aktiviert |
@@ -47,7 +44,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Neue Funktionen 2024.10.0 | Funktionsaktivierung | 31. Oktober 2024 | Target |
 | Wartungsversion | Automatisches Update | 11.–13. November 2024 | Target |
 | Neue Funktionen 2024.11.0 | Funktionsaktivierung | 21. November 2024 | Target |
+| Wartungsversion | Automatisches Update | 9.-11. Dezember 2024 | Target |
 | Neue Funktionen 2024.12.0 | Funktionsaktivierung | 12. Dezember 2024 | Target |
+| Wartungsversion | Automatisches Update | 20.-22. Januar 2025 | Target |
+| Neue Funktionen 2025.1.0 | Funktionsaktivierung | Freitag, 30. Januar 2025 | Target |
+| Wartungsversion | Automatisches Update | 3.-5. Februar 2025 | Target |
+| Wartungsversion | Automatisches Update | 17.-19. Februar 2025 | Target |
+| Neue Funktionen 2025.2.0 | Funktionsaktivierung | Freitag, 27. Februar 2025 | Target |
+| Wartungsversion | Automatisches Update | 3.-5. März 2025 | Target |
 
 >[!CAUTION]
 >
