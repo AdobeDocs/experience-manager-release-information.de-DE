@@ -2,8 +2,8 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4b9043bf52c4b5157a8d47c1f0581d24b8c5f1ea
-workflow-type: ht
+source-git-commit: 2771a67a9be25da1d9f7ea8b601bbd32974bff2c
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -42,7 +42,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [18459](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 11.–13. November 2024 | Target |
+| Wartungsversion [18598](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 11.–13. November 2024 | Target |
 | Neue Funktionen 2024.11.0 | Funktionsaktivierung | 21. November 2024 | Target |
 | Wartungsversion | Automatisches Update | 9.-11. Dezember 2024 | Target |
 | Neue Funktionen 2024.12.0 | Funktionsaktivierung | 12. Dezember 2024 | Target |
