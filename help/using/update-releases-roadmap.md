@@ -2,10 +2,10 @@
 title: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 description: „Roadmap für [!DNL Adobe Experience Manager]-Versionen“
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: b67873b938f36e863d769feb0416fb79a47638fd
-workflow-type: ht
-source-wordcount: '497'
-ht-degree: 100%
+source-git-commit: 657fecf2d8df9bdf5f50daa63aadc42a828218ef
+workflow-type: tm+mt
+source-wordcount: '484'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [17258](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17258) | Automatisches Update | 5.–7. August 2024 | Aktualisiert |
-| Wartungsversion [17465](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-8-0#release-17465) | Automatisches Update | 19.–21. August 2024 | Aktualisiert |
-| Funktionsversion [2024.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-8-0) | Funktionsaktivierung | 29. August 2024 | Aktiviert |
 | Wartungsversion [17569](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17569) | Automatisches Update | 2.–4. September 2024 | Aktualisiert |
 | Wartungsversion [17689](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-9-0#release-17689) | Automatisches Update | 16.–18. September 2024 | Aktualisiert |
 | Funktionsversion [2024.9.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-9-0) | Funktionsaktivierung | 26. September 2024 | Aktiviert |
@@ -38,20 +35,21 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [18311](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | Automatisches Update | 28.–30. Oktober 2024 | Aktualisiert |
 | Funktionsversion [2024.10.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | Funktionsaktivierung | 31. Oktober 2024 | Aktiviert |
 | Wartungsversion [18598](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisches Update | 11.–13. November 2024 | Aktualisiert |
-| Funktionsversion [2024.11.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 21. November 2024 | Target |
+| Funktionsversion [2024.11.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 21. November 2024 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | 9.-11. Dezember 2024 | Target |
-| Neue Funktionen 2024.12.0 | Funktionsaktivierung | 12. Dezember 2024 | Target |
-| Wartungsversion | Automatisches Update | 20.-22. Januar 2025 | Target |
+| Wartungsversion | Automatisches Update | 13.-15. Januar 2025 | Target |
+| Wartungsversion | Automatisches Update | 27.-29. Januar 2025 | Target |
 | Neue Funktionen 2025.1.0 | Funktionsaktivierung | Freitag, 30. Januar 2025 | Target |
-| Wartungsversion | Automatisches Update | 3.-5. Februar 2025 | Target |
-| Wartungsversion | Automatisches Update | 17.-19. Februar 2025 | Target |
+| Wartungsversion | Automatisches Update | 10.-12. Februar 2025 | Target |
+| Wartungsversion | Automatisches Update | 24.-26. Februar 2025 | Target |
 | Neue Funktionen 2025.2.0 | Funktionsaktivierung | Freitag, 27. Februar 2025 | Target |
-| Wartungsversion | Automatisches Update | 3.-5. März 2025 | Target |
+| Wartungsversion | Automatisches Update | 10.-12. März 2025 | Target |
+| Wartungsversion | Automatisches Update | 24.-26. März 2025 | Target |
+| Neue Funktionen 2025.3.0 | Funktionsaktivierung | Freitag, 27. März 2025 | Target |
 
 >[!CAUTION]
 >
@@ -72,10 +70,11 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über vierteljährlich
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 [Service Pack 19](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/service-pack/6-5-19) | 6.5.19.0 | Service Pack | 30. November 2023 | Aktiviert |
 | [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 22. Februar 2024 | Aktiviert |
-| [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | Service Pack | 6. Juni 2024 | Aktiviert |
-| [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 21. November 2024 | Target |
+| [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 6. Juni 2024 | Aktiviert |
+| [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.22.0 | Service Pack | 21. November 2024 | Aktiviert |
+| [!DNL Experience Manager] 6.5 Service Pack 23 | 6.5.23.0 | Service Pack | Freitag, 22. Mai 2025 | Target |
+| [!DNL Experience Manager] 6.5 Service Pack 24 | 6.5.24.0 | Service Pack | Freitag, 20. November 2025 | Ziel |
 
 >[!NOTE]
 >
