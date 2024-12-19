@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: d333addbba29fa670297a433ee12f8c0464b66c0
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -57,9 +57,9 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 >* Montag, 25. November 2024, bis Dienstag, 3. Dezember 2024.
 >* Montag, 16. Dezember 2024 bis Freitag, 3. Januar 2025.
 
-## [!DNL Experience Manager] On-Premise- und Managed Services {#aem-on-prem-managed-services}
+## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
-Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerkorrekturen für unterstützte On-Premise- und Managed Services-Versionen werden über Service Packs und Cumulative Fix Packs (CFPs) bereitgestellt. [!DNL Experience Manager] Dies ermöglicht eine schnellere Übernahme von Produktaktualisierungen durch häufige Veröffentlichungen. Die Veröffentlichung der Produktaktualisierungen ist wie folgt geplant.
+Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerbehebungen für unterstützte On-Premise-Services und Managed Services zu [!DNL Experience Manager] werden über Service Packs und Cumulative Fix Packs (CFPs) bereitgestellt. Dies ermöglicht eine schnellere Übernahme von Produktaktualisierungen durch häufige Veröffentlichungen. Die Veröffentlichung der Produktaktualisierungen ist wie folgt geplant.
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
