@@ -4,7 +4,7 @@ description: Weitere Informationen zu älteren wichtigen Dokumentationsänderung
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 100%
 

@@ -3,7 +3,7 @@ title: Adobe Experience Manager-Versions-Updates und -Roadmap
 description: Weitere Informationen zu Adobe Experience Manager-Versions-Updates und -Roadmap.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

@@ -9,7 +9,7 @@ ht-degree: 62%
 
 ## Die Verpflichtung von Adobe
 
-Um eine offene und einladende Umgebung zu fördern, verpflichten sich Mitarbeiter und Betreuer, die Teilnahme am Projekt und an der Community zu einem belästigungsfreien Erlebnis für alle zu machen. Dieses Versprechen gilt für alle, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zugehörigkeit, Geschlechtsidentität und -ausdruck oder Erfahrungsniveau. Dazu gehören auch Nationalität, persönliches Erscheinungsbild, Rasse, Religion sowie sexuelle Identität und Orientierung.
+Um eine offene und freundliche Umgebung zu fördern, verpflichten sich die Mitwirkenden und Betreuer, die Teilnahme am Projekt und an der Community für alle Beteiligten ohne Belästigung zu ermöglichen. Dieses Versprechen gilt für alle, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zugehörigkeit, Geschlechtsidentität und Ausdruck der Geschlechtserfahrung. Es umfasst auch Nationalität, persönliches Erscheinungsbild, Rasse, Religion und sexuelle Identität und Orientierung.
 
 ## Die Standards von Adobe
 
@@ -33,11 +33,11 @@ Zu Beispielen für inakzeptables Verhalten von Teilnehmern gehören:
 
 Projektverantwortliche haben die Aufgabe, die Standards des akzeptablen Verhaltens zu verdeutlichen, und es wird erwartet, dass sie als Reaktion auf Fälle von inakzeptablem Verhalten geeignete und angemessene Gegenmaßnahmen ergreifen.
 
-Projektverantwortliche haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen und Probleme zu entfernen, zu bearbeiten oder abzulehnen. Diese Aktionen werden durchgeführt, wenn sie nicht mit diesem Verhaltenskodex in Einklang stehen. Oder um jeden Mitwirkenden vorübergehend oder dauerhaft für andere Verhaltensweisen zu verbieten, die er für unangemessen, bedrohlich, beleidigend oder schädlich hält.
+Projektverantwortliche haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Änderungen und Probleme zu entfernen, zu bearbeiten oder abzulehnen. Diese Maßnahmen werden ergriffen, wenn sie nicht mit diesem Verhaltenskodex im Einklang stehen. Oder Beitragende für andere Verhaltensweisen, die sie als unangemessen, bedrohlich, beleidigend oder schädlich erachten, vorübergehend oder dauerhaft zu verbieten.
 
 ## Anwendungsbereich
 
-Dieser Verhaltenskodex gilt sowohl innerhalb der Projektbereiche als auch in öffentlichen Räumen, wenn eine Person das Projekt oder die Community repräsentiert. Beispiele für die Repräsentation eines Projekts oder einer Community sind die Verwendung einer offiziellen Projekt-E-Mail-Adresse oder das Posten über ein offizielles Social-Media-Konto. Es umfasst auch das Handeln als ernannter Vertreter bei einer Online- oder Offline-Veranstaltung. Projektverantwortliche können die Repräsentation eines Projekts weiter definieren und präzisieren.
+Dieser Verhaltenskodex gilt sowohl innerhalb der Projektbereiche als auch in öffentlichen Räumen, wenn eine Person das Projekt oder die Community repräsentiert. Beispiele für die Darstellung eines Projekts oder einer Community sind die Verwendung einer offiziellen Projekt-E-Mail-Adresse oder die Veröffentlichung über ein offizielles Social-Media-Konto. Dazu gehört auch, bei einer Online- oder Offline-Veranstaltung als ernannter Vertreter aufzutreten. Projektverantwortliche können die Repräsentation eines Projekts weiter definieren und präzisieren.
 
 ## Durchsetzung
 
@@ -47,4 +47,4 @@ Projektverantwortliche, die dem Verhaltenskodex nicht in gutem Glauben folgen od
 
 ## Zuordnung
 
-Dieser Verhaltenskodex wird aus dem [Contributor Covenant](https://www.contributor-covenant.org/), Version 1.4, verfügbar unter [https://www.contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/version/1/4/).
+Dieser Verhaltenskodex wurde basierend auf dem [Contributor Covenant](https://www.contributor-covenant.org/), Version 1.4, erstellt, siehe [https://www.contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/version/1/4/).

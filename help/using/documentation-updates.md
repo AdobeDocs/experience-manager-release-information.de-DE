@@ -4,7 +4,7 @@ description: In der Dokumentation zu Experience Managern erfahren Sie mehr über
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1941'
 ht-degree: 100%
 

@@ -7,7 +7,7 @@ ht-degree: 87%
 ---
 # Versionsinformationen zu Adobe Experience Manager
 
-Dieses Repository dient den Adobe Experience Manager-Versionsinformationen.
+Dieses Repository ist für Versionsinformationen zu Adobe Experience Manager vorgesehen.
 
 Ihre Beiträge zur Dokumentation sind willkommen. Sehen Sie sich die folgenden Ressourcen an:
 
