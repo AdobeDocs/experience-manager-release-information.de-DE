@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
 source-wordcount: '442'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -32,8 +32,8 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Funktionsversion [2024.10.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | Funktionsaktivierung | 31. Oktober 2024 | Aktiviert |
 | Wartungsversion [18598](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | Automatisches Update | 11.–13. November 2024 | Aktualisiert |
 | Funktionsversion [2024.11.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | Funktionsaktivierung | 21. November 2024 | Aktiviert |
-| Wartungsversion [18751](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Automatisches Update | 13.–15. Januar 2025 | Aktiviert |
-| Wartungsversion [19149](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Automatisches Update | 27.–29. Januar 2025 | Aktualisiert |
+| Wartungsversion [18751](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | Automatisches Update | 13.–15. Januar 2025 | Aktiviert |
+| Wartungsversion [19149](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | Automatisches Update | 27.–29. Januar 2025 | Aktualisiert |
 | Funktionsversion [2025.1.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | Freitag, 30. Januar 2025 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
