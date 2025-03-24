@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -40,16 +40,16 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
 | Neue Funktionen 2025.3.0 | Funktionsaktivierung | 27. März 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 7.-9. April 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 7.–9. April 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 21.–23. April 2025 | Ziel |
 | Neue Funktionen 2025.4.0 | Funktionsaktivierung | Freitag, 24. April 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 5.–7. Mai 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 19.–21. Mai 2025 | Ziel |
 | Neue Funktionen 2025.5.0 | Funktionsaktivierung | Freitag, 29. Mai 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 2. bis 4. Juni 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 16. bis 18. Juni 2025 | Ziel |
-| Neue Funktionen 2025.6.0 | Funktionsaktivierung | Freitag, 26. Juni 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 30. Juni - 2. Juli 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 2.–4. Juni 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 16.–18. Juni 2025 | Ziel |
+| Neue Funktionen 2025.6.0 | Funktionsaktivierung | 26. Juni 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 30. Juni – 2. Juli 2025 | Ziel |
 
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
