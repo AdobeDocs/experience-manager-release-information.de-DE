@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 0b4aa3f8d20e1eacdd8c1ea47812f277fcbc092d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '437'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [19352](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19352) | Automatisches Update | 10.–12. Februar 2025 | Aktualisiert |
 | Wartungsversion [19687](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-2-0#19687) | Automatisches Update | 24.–26. Februar 2025 | Aktualisiert |
 | Funktionsversion [2025.2.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-2-0) | Funktionsaktivierung | 4. März 2025 | Aktiviert |
-| Wartungsversion [19823](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Automatisches Update | 10.–12. März 2025 | Aktualisiert |
+| Wartungsversion [19823](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-3-0#19823) | Automatisches Update | 10.–12. März 2025 | Aktualisiert |
 | Funktionsversion [2025.3.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 27. März 2025 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
