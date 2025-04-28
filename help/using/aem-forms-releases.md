@@ -4,9 +4,9 @@ description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprec
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 42410da78ff4efcafa86893d907c800ee98c1b5f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3226'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,10 +45,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
     <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">AEM 6.5 LTS Forms</a></td>
     <td>
      <ul>
-     <br><b>AEM Forms 6.5 LTS für OSGi-Vollinstallationsprogramme</b></br>
+     <br><b>Volle Installationsprogramme für AEM Forms 6.5 LTS auf OSGi</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-linux-pkg-6.1.152.zip">AEM Forms 6.5 LTS-Add-on für Linux®</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-win-pkg-6.1.152.zip">AEM Forms 6.5 LTS-Add-on für Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms 6.5 LTS-Add-on für mac OSX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">AEM Forms 6.5 LTS-Add-on für macOS X</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS-Kompatibilitätspaket</a></li>
       </ul> 
       </td>
