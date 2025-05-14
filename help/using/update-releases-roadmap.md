@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: cc9b7543118d61f6beedc1433e03888cbc340c0a
 workflow-type: tm+mt
 source-wordcount: '439'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -47,9 +47,9 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion | Automatisches Update | 16.–18. Juni 2025 | Ziel |
 | Neue Funktionen 2025.6.0 | Funktionsaktivierung | 26. Juni 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 30. Juni – 2. Juli 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 14. bis 16. Juli 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 28. bis 30. Juli 2025 | Ziel |
-| Neue Funktionen 2025.7.0 | Funktionsaktivierung | Freitag, 31. Juli 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 14. –16. Juli 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 28.– 30. Juli 2025 | Ziel |
+| Neue Funktionen 2025.7.0 | Funktionsaktivierung | 31. Juli 2025 | Ziel |
 
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
