@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9062751317033be48bf9b6247ec4984abe589bda
+source-git-commit: ed9f891e2a8a353ab73e33fdfe5835e3b639c7f6
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '476'
+ht-degree: 94%
 
 ---
 
@@ -53,6 +53,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
 Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerbehebungen für unterstützte On-Premise-Services und Managed Services zu [!DNL Experience Manager] werden über Service Packs und Cumulative Fix Packs (CFPs) bereitgestellt. Dies ermöglicht eine schnellere Übernahme von Produktaktualisierungen durch häufige Veröffentlichungen. Die Veröffentlichung der Produktaktualisierungen ist wie folgt geplant.
+
+### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
+
+[!DNL Experience Manager] 6.5 LTS-Produktaktualisierungen werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten Service Pack finden Sie in den Versionshinweisen zu [[!DNL Experience Manager] 6.5 LTS](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes).
+
+| Freigabe | Version | Typ | Zeitplan | Status |
+|---|---|---|---|---|
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | Freitag, 21. August 2025 | Ziel |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
