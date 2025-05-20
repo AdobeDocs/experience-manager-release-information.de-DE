@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 720153ad37a24d61c55e89e9cb14d53a7020de87
+source-git-commit: 9062751317033be48bf9b6247ec4984abe589bda
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 99%
+source-wordcount: '428'
+ht-degree: 100%
 
 ---
 
@@ -35,13 +35,12 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [20133](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20133) | Automatisches Update | 7.–9. April 2025 | Aktualisiert |
 | Wartungsversion [20476](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-4-0#20476) | Automatisches Update | 22.-24. April 2025 | Aktualisiert |
 | Funktionsversion [2025.4.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | Freitag, 24. April 2025 | Aktiviert |
-| Wartungsversion [20626](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Automatisches Update | 5.–7. Mai 2025 | Aktiviert |
+| Wartungsversion [20626](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 5.–7. Mai 2025 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [20936](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 19.–21. Mai 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 2.–4. Juni 2025 | Ziel |
 | Neue Funktionen 2025.5.0 | Funktionsaktivierung | 5. Juni 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 16.–18. Juni 2025 | Ziel |
