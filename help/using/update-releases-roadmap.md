@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -56,11 +56,11 @@ Produktaktualisierungen in Bezug auf neue Funktionen, Verbesserungen und Fehlerb
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS-Produktaktualisierungen werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten Service Pack finden Sie in den Versionshinweisen zu [[!DNL Experience Manager] 6.5 LTS](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes).
+Produkt-Updates für [!DNL Experience Manager] 6.5 LTS werden über Service Packs bereitgestellt. Dazu gehören neue Funktionen, Verbesserungen und Fehlerbehebungen. Weitere Informationen zum neuesten veröffentlichten Service Pack finden Sie in den [[!DNL Experience Manager] Versionshinweisen für 6.5 LTS](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes).
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | Freitag, 21. August 2025 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 21. August 2025 | Ziel |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
