@@ -733,7 +733,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&amp;support-solution=General&amp;support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&amp;support-solution=General&amp;support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
