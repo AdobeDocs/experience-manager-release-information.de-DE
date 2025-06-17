@@ -4,9 +4,9 @@ description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprec
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: f513fedfecacd16322791ed90cc056cdf23b0eb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3377'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp23_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">Installationsprogramm in spanischer Sprache</a> </li>
       </ul> 
       </td>
-    <td><p>Vollinstallationsprogramm für AEM Forms JEE: 6-5-0-20250606-1-12345 <br/><p>Patch-Installationsprogramm für AEM Forms auf JEE: 6-5-0-0100 <br/><p>Add-in für AEM Forms Pakete: 6.0.1360 <br/></p></td>
+    <td><p>Vollinstallationsprogramm für AEM Forms auf JEE: 6-5-0-20250606-1-12345 <br/><p>Patch-Installationsprogramm für AEM Forms auf JEE: 6-5-0-0100 <br/><p>Add-in für AEM Forms Pakete: 6.0.1360 <br/></p></td>
    </tr>
    <tr>
     <td>7. März 2025</td>
@@ -733,7 +733,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&amp;support-solution=General&amp;support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
