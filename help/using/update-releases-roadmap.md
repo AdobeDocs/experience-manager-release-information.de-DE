@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9f6b3c7c3f75c58050d3371b2778c510db341477
-workflow-type: ht
-source-wordcount: '491'
-ht-degree: 100%
+source-git-commit: 74d7cfd5a5a79ac972af6fad5072008c528ffc1e
+workflow-type: tm+mt
+source-wordcount: '493'
+ht-degree: 99%
 
 ---
 
@@ -33,14 +33,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [20626](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Automatisches Update | 5.–7. Mai 2025 | Aktualisiert |
 | Wartungsversion [21005](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | Automatisches Update | 2.–4. Juni 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.5.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | &#x200B;5. Juni 2025 | Aktiviert |
+| Wartungsversion [21193](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Automatisches Update | 16.–18. Juni 2025 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [21193](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 16.–18. Juni 2025 | Ziel |
 | Neue Funktionen 2025.6.0 | Funktionsaktivierung | &#x200B;26. Juni 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 30. Juni – 2. Juli 2025 | Ziel |
+| Wartungsversion [21331](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 30. Juni – 2. Juli 2025 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;14. –16. Juli 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 28.– 30. Juli 2025 | Ziel |
 | Neue Funktionen 2025.7.0 | Funktionsaktivierung | &#x200B;31. Juli 2025 | Ziel |
