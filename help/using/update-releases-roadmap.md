@@ -2,8 +2,8 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 64b97f20437ff084ebd2a9da984781fc420d33dc
-workflow-type: ht
+source-git-commit: a152ca4fb490c626edeb18ec2a69b5e48c703216
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 |---|---|---|---|
 | Wartungsversion [21484](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;14. –16. Juli 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 28.– 30. Juli 2025 | Ziel |
-| Neue Funktionen 2025.7.0 | Funktionsaktivierung | &#x200B;31. Juli 2025 | Ziel |
+| Neue Funktionen 2025.7.0 | Funktionsaktivierung | Freitag, 7. August 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 11.–13. August 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 25.–27. August 2025 | Ziel |
 | Funktionsveröffentlichung 2025.8.0 | Funktionsaktivierung | 28. August 2025 | Ziel |
