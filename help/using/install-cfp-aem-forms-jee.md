@@ -3,10 +3,10 @@ title: Installieren von Cumulative Fix Packs in AEM Forms JEE
 description: Zusammenfassung der Schritte zur Installation und Konfiguration des Cumulative Fix Packs (CFP) für AEM Forms JEE.
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 100%
+source-wordcount: '904'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 Um das Cumulative Fix Pack auf AEM 6.3 [!DNL Forms JEE] zu installieren, führen Sie die folgenden Schritte aus.
 
-1. Um das Installationsprogramm für das CFP für AEM 6.3 [!DNL Forms JEE] zu erhalten, kontaktieren Sie den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&amp;support-solution=General&amp;support-tab=home#support).
+1. Um das Installationsprogramm für das CFP für AEM 6.3 [!DNL Forms JEE] zu erhalten, kontaktieren Sie den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support).
 1. Führen Sie das CFP-Installationsprogramm aus und konfigurieren Sie AEM [!DNL Forms JEE] wie in [Installieren und Konfigurieren von AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) beschrieben.
 1. Installieren des neuesten AEM CFP 6.3.3.x
 1. Installieren Sie das [!DNL Forms]-Add-on-Paket für AEM CFP [6.3.3.x](aem-forms-releases.md).
@@ -42,7 +42,7 @@ Konfigurieren Sie bei Verwendung des AEM 6.3 [!DNL Forms JEE]-Servers mit einer 
 
 Um das Cumulative Fix Pack auf AEM 6.2 [!DNL Forms JEE] zu installieren, führen Sie die folgenden Schritte aus.
 
-1. Um das Installationsprogramm für die CFP für AEM 6.2 [!DNL Forms JEE] zu erhalten, kontaktieren Sie den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&amp;support-solution=General&amp;support-tab=home#support).
+1. Um das Installationsprogramm für die CFP für AEM 6.2 [!DNL Forms JEE] zu erhalten, kontaktieren Sie den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support).
 1. Führen Sie das CFP-Installationsprogramm aus und konfigurieren Sie AEM [!DNL Forms JEE] wie in [Installieren und Konfigurieren von AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) beschrieben.
 1. Installieren Sie AEM Hotfix 12785 Version 7.0.
 1. Installieren Sie AEM 6.2 Service Pack 1.
@@ -59,7 +59,7 @@ Das AEM Forms JEE-Paket (aemfd-jee-bundles-package-6.2CFP5; Version 1.0.2) biete
 >
 >Nach der Installation von AEM 6.2 CFP4 können Sie mit dieser Anleitung die Zeitüberschreitung für DSC-Vorgänge konfigurieren. Dies ist sinnvoll, falls es während des Aktualisierungsprozesses zu Problemen aufgrund einer Zeitüberschreitung kommen sollte.
 
-Die Bereitstellung von DSC nimmt unterschiedlich viel Zeit in Anspruch, sodass sie fehlschlagen kann. Um den Wert für die Zeitüberschreitung von DSC-Vorgängen wie „Installieren“, „Laden“, „Starten“ und „Stoppen“ zu ändern, müssen Sie den Wert `adobe.component.registry.timeout` mit dem JVM-Argument und der Option -D festlegen.
+Die Bereitstellung von DSC nimmt unterschiedlich viel Zeit in Anspruch, sodass sie fehlschlagen kann. Um den Wert für die Zeitüberschreitung von DSC-Vorgängen wie „Installieren“, „Laden“, „Starten“ und „Stoppen“ zu ändern, müssen Sie den `adobe.component.registry.timeout` mithilfe des JVM-Arguments mit der Option &quot;`-D`&quot; festlegen.
 
 Geben Sie den Wert für den Schlüssel in Sekunden an. Beispiel: `-Dadobe.component.registry.timeout=300`
 

@@ -3,10 +3,10 @@ title: Frühere Aktualisierungen der Dokumentation
 description: Weitere Informationen zu älteren wichtigen Dokumentationsänderungen und -aktualisierungen für  [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
 workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -51,7 +51,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>18. Oktober 2019<br /> </td> 
    <td>Management von Headless-Erlebnissen<br /> </td> 
-   <td>Es wurden Funktionen des <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">Remote Content Renderer</a> dokumentiert, der für die Server-seitige Wiedergabe von Single Page Applications verwendet wird.<br /> </td> 
+   <td>Es wurden Funktionen des <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">Remote Content Renderer</a> dokumentiert, der für die Server-seitige Wiedergabe von Single Page Applications verwendet wird.<br /> </td> 
   </tr>
   <tr>
    <td>11. Oktober 2019</td> 
@@ -71,7 +71,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>1. Oktober 2019</td> 
    <td>Installation von AEM Forms auf JEE </td> 
-   <td><p>Es wurde die Unterstützung des Oracle 18c-Datenbanktreibers durch AEM Forms hinzugefügt. </p> <p>Plattformmatrix: <a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Es wurde die Unterstützung des Oracle 18c-Datenbanktreibers durch AEM Forms hinzugefügt. </p> <p>Plattformmatrix: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1. Oktober 2019 </td> 
@@ -81,7 +81,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>25. September 2019</td> 
    <td>Kernkomponenten</td> 
-   <td>Version 2.7.0 der Kernkomponenten einschließlich der neuen Einbettungskomponente ist nun zusammen mit <a href="https://github.com/adobe/aem-core-wcm-components">Details für Entwickler sowie dem Projekt-Download von GitHub</a> verfügbar.</td> 
+   <td>Version 2.7.0 der Kernkomponenten mit der Einführung der „Einbettungskomponente“ ist jetzt zusammen mit <a href="https://github.com/adobe/aem-core-wcm-components">Entwicklerdetails und Projekt-Download auf GitHub verfügbar</a>.</td> 
   </tr>
   <tr>
    <td>25. September 2019</td> 
@@ -171,7 +171,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>3. Juni 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Es wurde ein Paket in der <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">Komponente zum Erstellen einer Mehrfeld-Komponente</a> hinzugefügt.<br /> </p> <p>Es wurden auf Kunden-Feedback basierende <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">Häufig gestellte Fragen (FAQ) zur Fehlerbehebung</a> erstellt.</p> </td> 
+   <td><p>Ein Paket wurde in der <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">erstellten Mehrfachfeld-Komponente</a> hinzugefügt<br /> </p> <p>Es wurden auf Kunden-Feedback basierende <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/sites/administering/introduction/aem-faqs" target="_blank">Häufig gestellte Fragen (FAQ) zur Fehlerbehebung</a> erstellt.</p> </td> 
   </tr>
   <tr>
    <td>31. Mai 2019</td> 
