@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 643dba74580b7c8a829b2a69cd5684ba5c88961a
+source-git-commit: 62f573f7e434f4a365097f0d21249ea501e64f4c
 workflow-type: tm+mt
 source-wordcount: '474'
-ht-degree: 85%
+ht-degree: 99%
 
 ---
 
@@ -34,21 +34,20 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Funktionsveröffentlichung [2025.6.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | &#x200B;26. Juni 2025 | Aktiviert |
 | Wartungsversion [21331](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Automatisches Update | 30. Juni – 2. Juli 2025 | Aktualisiert |
 | Wartungsversion [21570](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Automatisches Update | &#x200B;14. –16. Juli 2025 | Aktualisiert |
-| Wartungsversion [21706](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Automatisches Update | 28.– 30. Juli 2025 | Aktualisiert |
+| Wartungsversion [21706](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Automatisches Update | 28.– 30. Juli 2025 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-
-| Funktionsversion 2025.7.0 |Funktionsaktivierung|7. August 2025 |Target|
-| Wartungsversion [21772](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de)|Automatisches Update|11.-13. August 2025|Target|
-| Wartungsversion|Automatische Aktualisierung|25.-27. August 2025|Target|
-| Funktionsversion 2025.8.0 |Funktionsaktivierung|28. August 2025 |Target|
-| Wartungsversion|Automatisches Update|8.-10. September 2025|Target|
-| Wartungsversion|Automatisches Update|22.-24. September 2025|Target|
-| Funktionsversion 2025.9.0 |Funktionsaktivierung|25. September 2025 |Target|
-| Wartungsversion|Automatisches Update|6.-8. Oktober 2025|Target|
+| Neue Funktionen 2025.7.0 | Funktionsaktivierung | &#x200B;7. August 2025 | Ziel |
+| Wartungsversion [21772](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 11.–13. August 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 25.–27. August 2025 | Ziel |
+| Funktionsveröffentlichung 2025.8.0 | Funktionsaktivierung | 28. August 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 08.–10. September 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 22.–24. September 2025 | Ziel |
+| Funktionsveröffentlichung 2025.9.0 | Funktionsaktivierung | 25. September 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 6.–8. Oktober 2025 | Ziel |
 
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
