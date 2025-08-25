@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3ebaf5e0257cf289904e5018013086ad0e213e28
+source-git-commit: 161c472d9a394da18711d04e85eb7af1278e6f2f
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 99%
@@ -36,7 +36,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [21570](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Automatisches Update | &#x200B;14. –16. Juli 2025 | Aktualisiert |
 | Wartungsversion [21706](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Automatisches Update | 28.– 30. Juli 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.7.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | &#x200B;7. August 2025 | Aktiviert |
-| Wartungsversion [21772](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Automatisches Update | 11.–13. August 2025 | Aktualisiert |
+| Wartungsversion [21772](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Automatisches Update | 11.–13. August 2025 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
@@ -68,7 +68,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 LTS werden über Service Pac
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 21. August 2025 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 28. August 2025 | Ziel |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
