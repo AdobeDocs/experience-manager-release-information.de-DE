@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: d33e61138d1bde75df3b53eda07a3bc7b190b37a
+source-git-commit: 26d2f5d3d9947ec7aaf700e286f38116eb1be311
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '510'
 ht-degree: 98%
 
 ---
@@ -27,7 +27,6 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [20626](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | Automatisches Update | 5.–7. Mai 2025 | Aktualisiert |
 | Wartungsversion [21005](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | Automatisches Update | 2.–4. Juni 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.5.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) | Funktionsaktivierung | &#x200B;5. Juni 2025 | Aktiviert |
 | Wartungsversion [21193](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | Automatisches Update | 16.–18. Juni 2025 | Aktualisiert |
@@ -35,16 +34,16 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [21331](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21331) | Automatisches Update | 30. Juni – 2. Juli 2025 | Aktualisiert |
 | Wartungsversion [21570](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21570) | Automatisches Update | &#x200B;14. –16. Juli 2025 | Aktualisiert |
 | Wartungsversion [21706](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Automatisches Update | 28.– 30. Juli 2025 | Aktualisiert |
-| Funktionsveröffentlichung [2025.7.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Funktionsaktivierung | &#x200B;7. August 2025 | Aktiviert |
+| Funktionsveröffentlichung [2025.7.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Funktionsaktivierung | &#x200B;7. August 2025 | Aktiviert |
 | Wartungsversion [21772](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Automatisches Update | 11.–13. August 2025 | Aktualisiert |
-| Wartungsversion [21994](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisches Update | 25.–27. August 2025 | Aktualisiert |
+| Wartungsversion [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Automatisches Update | 25.–27. August 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 28. August 2025 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | 08.–10. September 2025 | Ziel |
+| Wartungsversion [22171](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 08.–10. September 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 22.–24. September 2025 | Ziel |
 | Funktionsveröffentlichung 2025.9.0 | Funktionsaktivierung | 25. September 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 6.–8. Oktober 2025 | Target |
