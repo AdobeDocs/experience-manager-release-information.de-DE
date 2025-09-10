@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 575994376d8a5dee0adb4064c069d3e92f83c0f2
+source-git-commit: 5ea75151fa68dd30327ab9b9bc519ab379fd5115
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [21706](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-7-0#21706) | Automatisches Update | 28.– 30. Juli 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.7.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-7-0) | Funktionsaktivierung | &#x200B;7. August 2025 | Aktiviert |
 | Wartungsversion [21772](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21772) | Automatisches Update | 11.–13. August 2025 | Aktualisiert |
-| Wartungsversion [21994](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Automatisches Update | 25.–27. August 2025 | Aktualisiert |
+| Wartungsversion [21994](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-8-0#21994) | Automatisches Update | 25.–27. August 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 28. August 2025 | Aktiviert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
@@ -60,7 +60,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 > Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr) MEZ beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
 >* Montag, 24. November 2025, bis Dienstag, 2. Dezember 2025.
->* Montag, 8. Dezember 2025, bis Freitag, 2. Januar 2026.
+>* Montag, 15. Dezember 2025 bis Freitag, 2. Januar 2026.
 
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
