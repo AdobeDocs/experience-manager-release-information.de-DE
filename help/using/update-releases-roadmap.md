@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 5ea75151fa68dd30327ab9b9bc519ab379fd5115
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -42,16 +42,16 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion | Automatisches Update | 22.–24. September 2025 | Ziel |
 | Funktionsveröffentlichung 2025.9.0 | Funktionsaktivierung | 25. September 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 6.–8. Oktober 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 20.-22. Oktober 2025 | Ziel |
-| Funktionsveröffentlichung 2025.10.0 | Funktionsaktivierung | Freitag, 30. Oktober 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 3.-5. November 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 17.-19. November 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 20.–22. Oktober 2025 | Ziel |
+| Funktionsveröffentlichung 2025.10.0 | Funktionsaktivierung | &#x200B;30. Oktober 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 3.–5. November 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 17.–19. November 2025 | Ziel |
 | Funktionsveröffentlichung 2025.11.0 | Funktionsaktivierung | &#x200B;20. November 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 8.-10. Dezember 2025 | Ziel |
-| Funktionsveröffentlichung 2025.12.0 | Funktionsaktivierung | Freitag, 11. Dezember 2025 | Ziel |
-| Wartungsversion | Automatisches Update | 12.-14. Januar 2026 | Ziel |
-| Wartungsversion | Automatisches Update | 26.-28. Januar 2026 | Ziel |
-| Funktionsveröffentlichung 2026.1.0 | Funktionsaktivierung | Freitag, 29. Januar 2026 | Target |
+| Wartungsversion | Automatisches Update | 8.–10. Dezember 2025 | Ziel |
+| Funktionsveröffentlichung 2025.12.0 | Funktionsaktivierung | &#x200B;11. Dezember 2025 | Ziel |
+| Wartungsversion | Automatisches Update | 12.–14. Januar 2026 | Ziel |
+| Wartungsversion | Automatisches Update | 26.–28. Januar 2026 | Ziel |
+| Funktionsveröffentlichung 2026.1.0 | Funktionsaktivierung | &#x200B;29. Januar 2026 | Ziel |
 
 >[!CAUTION]
 >
@@ -72,7 +72,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 LTS werden über Service Pac
 
 | Freigabe | Version | Typ | Zeitplan | Status |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28. August 2025 | Aktiviert |
+| [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28. August 2025 | Aktiviert |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
