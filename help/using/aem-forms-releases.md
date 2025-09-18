@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
 workflow-type: tm+mt
 source-wordcount: '3400'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ Dieser Artikel enthält Informationen zu beiden Themen:
 
 * [AEM 6.5 Forms-Versionen](#aem-65-forms-releases)
 
-## AEM 6.5 LTS [!DNL Forms]-Versionen {#aem-65-lts-forms-releases}
+## AEM 6.5 LTS [!DNL Forms]-Versionen {#aem-65-lts-forms-releases}
 
 <table>
   <tbody>
@@ -97,13 +97,13 @@ Dieser Artikel enthält Informationen zu beiden Themen:
   </tbody>
 </table>
 
-## AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
+## AEM 6.5 [!DNL Forms]-Versionen {#aem-65-forms-releases}
 
 <table>
   <tbody>
     <tr>
       <td><strong>Datum</strong></td>
-      <td><strong>AEM Forms 6.5-Versionen</strong></td>
+      <td><strong>AEM Forms 6.5-Versionen</strong></td>
       <td><strong>Voraussetzung</strong></td>
       <td><strong>Verfügbare Pakete</strong></td>
       <td><strong>Build-Versionen</strong></td>
@@ -933,7 +933,7 @@ Dieser Artikel enthält Informationen zu beiden Themen:
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
