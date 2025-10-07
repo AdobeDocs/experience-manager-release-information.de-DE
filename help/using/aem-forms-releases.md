@@ -4,9 +4,9 @@ description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprec
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: bef19dd66deed90c57d499308ce4b54343cbe41b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3400'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
 
 -->
 
-Dieser Artikel enthält Informationen zu beiden Themen:
+Dieser Artikel enthält Informationen zu:
 
 * [AEM 6.5 LTS Forms-Versionen](#aem-65-lts-forms-releases)
 
@@ -48,16 +48,16 @@ Dieser Artikel enthält Informationen zu beiden Themen:
       <td>5. September 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 1
-        </a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 1
-        </a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
-        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS für OSGi-Installationsprogramme</b>
+        <b style="display:block; margin:10px 0;">Installationsprogramme für AEM Forms 6.5 LTS auf OSGi</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.176.zip">AEM Forms 6.5 LTS-Add-on für Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.176.zip">AEM Forms 6.5 LTS-Add-on für Windows</a></li>
@@ -72,13 +72,13 @@ Dieser Artikel enthält Informationen zu beiden Themen:
       <td>7. März 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Volle Installationsprogramme für AEM Forms 6.5 LTS auf OSGi</b>
@@ -112,13 +112,13 @@ Dieser Artikel enthält Informationen zu beiden Themen:
       <td>6. Juni 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms Service Pack 23 Forms-Add-in-Paket für AEM 6.5.23.0
-        </a>
+          AEM 6.5 Forms Service Pack 23 – Forms-Add-in-Paket für AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.23.0
-        </a>
+          AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Patch-Installationsprogramme für AEM Forms auf OSGi</b>
@@ -764,7 +764,7 @@ Dieser Artikel enthält Informationen zu beiden Themen:
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Add-on-Paket für AEM Forms für Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">AEM Forms-Add-in-Paket für macOS X [2]</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">AEM Forms-Kompatibilitätspaket</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">Patch für AEM Forms Designer</a>      </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">AEM Forms Designer-Patch</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">JEE-Patch-Installationsprogramme</b>
         <ul>
@@ -933,7 +933,7 @@ Dieser Artikel enthält Informationen zu beiden Themen:
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
