@@ -42,7 +42,7 @@ Mithilfe von Problemen können Sie Ihre Verbesserungsidee für Dokumente einfach
 
 Wenn Sie ein Problem sehen und genau wissen, wie Sie es beheben können, sollten Sie eine Pull-Anfrage erstellen. Mithilfe von Pull-Anfragen können Sie eigene Änderungen an der Dokumentation vornehmen. Ein Mitglied des AEM Docs Teams überprüft diese Änderungen, um sie aufzunehmen. Klicken Sie einfach auf **Diese Seite bearbeiten** oben im rechten Navigationsbereich auf einer beliebigen Seite auf den Link, damit Sie Ihre vorgeschlagenen Änderungen vornehmen und die Pull-Anfrage erstellen können.
 
-Allen Pull[Anforderungen muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende oder ](https://opensource.adobe.com/cla.html) beigelegt sein. Dies bedeutet, dass Adobe die Erlaubnis erhält, Ihre Beiträge im Rahmen des Projekts zu verteilen. Sie können eine Adobe-CLA nur einmal einreichen. Wenn Sie also bereits eine eingereicht haben, können Sie loslegen.
+Allen Pull[Anforderungen muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende oder &#x200B;](https://opensource.adobe.com/cla.html) beigelegt sein. Dies bedeutet, dass Adobe die Erlaubnis erhält, Ihre Beiträge im Rahmen des Projekts zu verteilen. Sie können eine Adobe-CLA nur einmal einreichen. Wenn Sie also bereits eine eingereicht haben, können Sie loslegen.
 
 ### Kurze Videoeinführung
 
