@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 74027a8580b6f7522a04250cc52aa3009b802072
+source-git-commit: 3d62c485b218bb650c13293acbc366861e061107
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '554'
 ht-degree: 99%
 
 ---
@@ -36,13 +36,13 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [22171](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | Automatisches Update | 08.–10. September 2025 | Aktualisiert |
 | Wartungsversion [22450](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | Automatisches Update | 22.–24. September 2025 | Aktualisiert |
 | Funktionsveröffentlichung [2025.9.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | 25. September 2025 | Aktiviert |
-| Wartungsversion [22758](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 6.–8. Oktober 2025 | Aktualisiert |
+| Wartungsversion [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | Automatisches Update | 6.–8. Oktober 2025 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | 20.–22. Oktober 2025 | Ziel |
+| Wartungsversion [22943](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | 20.–22. Oktober 2025 | Ziel |
 | Funktionsveröffentlichung 2025.10.0 | Funktionsaktivierung | &#x200B;30. Oktober 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 3.–5. November 2025 | Ziel |
 | Wartungsversion | Automatisches Update | 17.–19. November 2025 | Ziel |
