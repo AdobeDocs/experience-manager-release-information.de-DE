@@ -99,4 +99,4 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 ## Hilfe von der [!DNL Experience Manager]-Community {#get-help-from-aem-community}
 
-Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in Verbindung zu setzen.
+Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) in Verbindung zu setzen.
