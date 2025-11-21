@@ -4,9 +4,9 @@ description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Exp
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '579'
+ht-degree: 96%
 
 ---
 
@@ -83,7 +83,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Wählen Sie **[!UICONTROL Tools]** > **[!UICONTROL Bereitstellung]** > **[!UICONTROL Pakete]** aus.
 
-1. Wählen Sie in der Package Manager-UI die Option **[!UICONTROL Upload Package]** (Paket hochladen).
+1. Wählen Sie in der Paket-Manager-UI die Option **[!UICONTROL Upload Package]** (Paket hochladen).
 
 1. Navigieren Sie zu dem Speicherort, an den Sie das AEM-Paket heruntergeladen haben.
 
@@ -95,8 +95,8 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Installieren]**. Die Installation dauert einige Minuten.
 
-1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Für AEM 5.6.1 lautet die URL z. B.: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Unter Verwendung des Beispiels für AEM 5.6.1 würde die URL wie folgt lauten: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Hilfe von der [!DNL Experience Manager]-Community {#get-help-from-aem-community}
 
-Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) in Verbindung zu setzen.
+Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in Verbindung zu setzen.
