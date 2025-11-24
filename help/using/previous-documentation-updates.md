@@ -3,10 +3,10 @@ title: Frühere Aktualisierungen der Dokumentation
 description: Weitere Informationen zu älteren wichtigen Dokumentationsänderungen und -aktualisierungen für  [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -71,7 +71,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>1. Oktober 2019</td> 
    <td>Installation von AEM Forms auf JEE </td> 
-   <td><p>Es wurde die Unterstützung des Oracle 18c-Datenbanktreibers durch AEM Forms hinzugefügt. </p> <p>Plattformmatrix: <a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/de/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>Es wurde die Unterstützung des Oracle 18c-Datenbanktreibers durch AEM Forms hinzugefügt. </p> <p>Plattformmatrix: <a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>1. Oktober 2019 </td> 
@@ -176,7 +176,7 @@ Auf dieser Seite werden ältere wichtige Dokumentationsänderungen und -aktualis
   <tr>
    <td>31. Mai 2019</td> 
    <td>AEM- und Adobe Commerce-Integration </td> 
-   <td><a href="https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce Integration Framework</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">Commerce Integration Framework</a>.</td> 
   </tr>
   <tr>
    <td>24. Mai 2019</td> 
