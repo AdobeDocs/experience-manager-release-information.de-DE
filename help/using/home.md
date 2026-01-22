@@ -2,9 +2,9 @@
 title: Adobe Experience Manager-Versions-Updates und -Roadmap
 description: Weitere Informationen zu Adobe Experience Manager-Versions-Updates und -Roadmap.
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ In diesem Handbuch werden Informationen zur [!DNL Adobe Experience Manager]-Vers
 * [[!DNL Experience Manager] Forms-Versionen ](aem-forms-releases.md)
 * [Installieren von Cumulative Fix Packs in  [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md)
 
-## Aktualisierungen der Dokumentation
-
-* [[!DNL Experience Manager]-Dokumentation: Aktuelle Aktualisierungen der Dokumentation](documentation-updates.md)
-* [Frühere Aktualisierungen der Dokumentation](previous-documentation-updates.md)
