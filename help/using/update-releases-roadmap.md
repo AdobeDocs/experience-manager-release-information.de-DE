@@ -46,7 +46,7 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Funktionsversion [2026.1.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-1-0) | Funktionsaktivierung | &#x200B;29. Januar 2026 | Aktiviert |
 | Wartungsversion [24288](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-2-0#24288) | Automatisches Update | 9.-11. Februar 2026 | Aktualisiert |
 | Wartungsversion [24464](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Automatisches Update | &#x200B;23. bis 25. Februar 2026 | Aktualisiert |
-| Funktionsversion [2026.2.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) | Funktionsaktivierung | &#x200B;3. März 2026 | Aktiviert |
+| Funktionsversion [2026.2.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-2-0) | Funktionsaktivierung | &#x200B;3. März 2026 | Aktiviert |
 | Wartungsversion [24678](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-3-0#24678) | Automatisches Update | &#x200B;9. bis 11. März 2026 | Aktualisiert |
 | Funktionsversion [2026.3.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | Freitag, 26. März 2026 | Aktiviert |
 
