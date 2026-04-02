@@ -3,10 +3,10 @@ title: AEM Forms-Versionen
 description: Weitere Informationen zu allen AEM Forms-Versionen und den entsprechenden Paketen.
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b377e40acf38c2b056e4e2061a498f5950d9655b
+source-git-commit: 7ec2156ec3af9cdd9d5176a885a6d3b024703c40
 workflow-type: tm+mt
-source-wordcount: '15125'
-ht-degree: 96%
+source-wordcount: '15313'
+ht-degree: 94%
 
 ---
 
@@ -44,6 +44,32 @@ Dieser Artikel enthält Informationen zu:
       <td><strong>Verfügbare Pakete</strong></td>
       <td><strong>Build-Versionen</strong></td>
     </tr>
+    <tr>
+      <td>Freitag, 19. Februar 2026</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS SP2 on JEE-Installationsprogramme</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]0327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Experience Manager 6.5 LTS SP2 Forms-Installationsprogramm für JBoss EAP und Microsoft Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Experience Manager 6.5 LTS SP2 Forms-Installationsprogramm für JBoss EAP und Linux
+</a></li>
+<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]ges/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2-Add-on für Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]kages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2-Add-on für Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[…]images/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">AEM Forms 6.5 LTS SP2-Add-on für macOS X</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+     </tr>
      <tr>
       <td>Samstag, 19. Dezember 2025</td>
       <td>
@@ -71,13 +97,13 @@ Dieser Artikel enthält Informationen zu:
       <td>5. September 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 1
-        </a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 1
-        </a>
+          AEM 6.5 LTS Forms Service Pack 1
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Installationsprogramme für AEM Forms 6.5 LTS auf OSGi</b>
@@ -95,13 +121,13 @@ Dieser Artikel enthält Informationen zu:
       <td>7. März 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
-        </a>
+          AEM 6.5 LTS Forms
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Volle Installationsprogramme für AEM Forms 6.5 LTS auf OSGi</b>
@@ -139,13 +165,13 @@ Dieser Artikel enthält Informationen zu:
       <td>28. Januar 2026</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms Service Pack 24 – Forms-Add-in-Paket für AEM 6.5.24.0
-        </a>
+          AEM 6.5 Forms Service Pack 24 Forms-Add-in-Paket für AEM 6.5.24.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.24.0
-        </a>
+          AEM 6.5.24.0
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Patch-Installationsprogramme für AEM Forms auf OSGi</b>
@@ -184,13 +210,13 @@ Dieser Artikel enthält Informationen zu:
       <td>6. Juni 2025</td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5 Forms Service Pack 23 – Forms-Add-in-Paket für AEM 6.5.23.0
-        </a>
+          AEM 6.5 Forms Service Pack 23 Forms-Add-in-Paket für AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes">
-          AEM 6.5.23.0
-        </a>
+          AEM 6.5.23.0
+        </a>
       </td>
       <td>
         <b style="display:block; margin:10px 0;">Patch-Installationsprogramme für AEM Forms auf OSGi</b>
@@ -467,7 +493,7 @@ Dieser Artikel enthält Informationen zu:
         </ul>
       </td>
       <td>
-        <p>Vollinstallationsprogramm für AEM Forms auf JEE: 
+        <p>Vollinstallationsprogramm für AEM Forms JEE: 
     6-5-0-20230913-1-12345 <br/><p>Patch-Installationsprogramm für AEM Forms auf JEE: aemforms-6-5-0-0069<br/><p>AEM Forms Packages-Add-in: 6.5.18.0 </p></td>
     </tr>
    <tr>
@@ -1005,7 +1031,7 @@ Dieser Artikel enthält Informationen zu:
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
