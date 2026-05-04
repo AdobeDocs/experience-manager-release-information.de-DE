@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager]-Versionen und Updates'
 description: '[!DNL Adobe Experience Manager]-Versionen und Updates'
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 9e7e72d7c0a7126828028b04319f20b64d72e517
-workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 85%
+workflow-type: ht
+source-wordcount: '271'
+ht-degree: 100%
 
 ---
 
@@ -29,13 +29,13 @@ Bei Managed Services- und On-Premise-Angeboten werden in dem Artikel die neueste
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
-[!DNL Experience Manager] 6.5-Produktaktualisierungen werden über Service Packs bereitgestellt und enthalten neue Funktionen, Verbesserungen und Fehlerbehebungen.
+Produktaktualisierungen für [!DNL Experience Manager] 6.5 werden in Form von Service Packs bereitgestellt und enthalten neue Funktionen, Verbesserungen und Fehlerbehebungen.
 
 Siehe [[!DNL Experience Manager] 6.5 Neuestes Feature Pack](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/release-notes/release-notes) für Details zur aktuellen/letzten Version. Von dort aus können Sie auch zu Details früherer Versionen navigieren (chronologisch angeordnet).
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem-65-lts}
 
-[!DNL Experience Manager] 6.5 LTS-Produktaktualisierungen werden über Service Packs bereitgestellt und enthalten neue Funktionen, Verbesserungen und Fehlerbehebungen.
+[!DNL Experience Manager] 6.5 LTS-Produktaktualisierungen werden in Form von Service Packs bereitgestellt und enthalten neue Funktionen, Verbesserungen und Fehlerbehebungen.
 
 Weitere Informationen zur aktuellen/letzten Version finden Sie unter [[!DNL Experience Manager] 6.5 LTS – Neuestes Feature Pack](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes).
 

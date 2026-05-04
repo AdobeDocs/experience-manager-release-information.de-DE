@@ -4,13 +4,13 @@ description: In diesem Artikel werden die verschiedenen  [!DNL Experience Manage
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
-source-wordcount: '740'
+workflow-type: ht
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
 
-# Definitionen von [!DNL Experience Manager]-Aktualisierungsversionen  {#update-release-vehicle-definitions}
+# Definitionen von [!DNL Experience Manager]-Aktualisierungsversionen {#update-release-vehicle-definitions}
 
 Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe Experience Manager]-Versionen, einschließlich Vollversionen, Feature Packs und Service Packs, die [!DNL Adobe] für Kunden bereitstellt.
 
