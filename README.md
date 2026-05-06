@@ -1,16 +1,10 @@
 ---
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+source-git-commit: d5c82c53f144aa1cae3ef6a85e67c133a5700390
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 87%
+source-wordcount: '7'
+ht-degree: 0%
 
 ---
-# Versionsinformationen zu Adobe Experience Manager
+# ARCHIVIERT
 
-Dieses Repository ist für Versionsinformationen zu Adobe Experience Manager vorgesehen.
-
-Ihre Beiträge zur Dokumentation sind willkommen. Sehen Sie sich die folgenden Ressourcen an:
-
-* [contributing.md](contributing.md) Ein Überblick darüber, wie Sie zur Dokumentation beitragen.
-* [guidelines.md](guidelines.md) Ein Überblick darüber, was in Beiträgen erwartet wird und wie Sie Ihre Beiträge zur Dokumentation zusammenstellen können.
-* [code-of-conduct.md](code-of-conduct.md) Ein Überblick über die Verhaltensstandards, die Adobe erwartet, wenn Sie zu diesem Dokumentationsprojekt beitragen.
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/experience-manager-release-information.en> migriert.
