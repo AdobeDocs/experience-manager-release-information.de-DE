@@ -13,11 +13,11 @@ In diesem Artikel wird beschrieben, wie Sie einen Beitrag leisten können, und e
 
 ## Adobe Open Source-Verhaltenskodex
 
-Dieses Projekt hat den [Open Source-Verhaltenskodex für Adobe ](code-of-conduct.md). Mit Ihrer Teilnahme an der Dokumentation zu AEM erklären Sie sich damit einverstanden, diesen Verhaltenskodex einzuhalten. Melden Sie inakzeptables Verhalten an [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+Dieses Projekt hat den [Open Source-Verhaltenskodex für Adobe &#x200B;](code-of-conduct.md). Mit Ihrer Teilnahme an der Dokumentation zu AEM erklären Sie sich damit einverstanden, diesen Verhaltenskodex einzuhalten. Melden Sie inakzeptables Verhalten an [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Richtlinien für Beiträge
 
-Auch wenn Beiträge zur Verbesserung der AEM-Dokumentation willkommen sind, müssen die Beiträge nach Möglichkeit bestimmte Richtlinien und Standards einhalten. Weitere Informationen finden [ in den Richtlinien für Beiträge zur Dokumentation ](guidelines.md) AEM .
+Auch wenn Beiträge zur Verbesserung der AEM-Dokumentation willkommen sind, müssen die Beiträge nach Möglichkeit bestimmte Richtlinien und Standards einhalten. Weitere Informationen finden [&#x200B; in den Richtlinien für Beiträge zur Dokumentation &#x200B;](guidelines.md) AEM .
 
 ## So können Sie einen Beitrag leisten
 
@@ -42,7 +42,7 @@ Mithilfe von Problemen können Sie Ihre Verbesserungsidee für Dokumente einfach
 
 Wenn Sie ein Problem sehen und genau wissen, wie es behoben werden kann, sollten Sie eine Pull-Anfrage erstellen. Mithilfe von Pull-Anforderungen können Sie Ihre eigenen Änderungen an der Dokumentation vornehmen. Ein Mitglied des AEM Docs Teams überprüft diese Änderungen, um sie aufzunehmen. Klicken Sie einfach auf **Diese Seite bearbeiten** oben im rechten Navigationsbereich auf einer beliebigen Seite auf den Link, damit Sie Ihre vorgeschlagenen Änderungen vornehmen und die Pull-Anfrage erstellen können.
 
-Allen Pull[Anforderungen muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende oder ](https://opensource.adobe.com/cla.html) beigelegt sein. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu verteilen. Sie können eine Adobe-CLA nur einmal senden. Wenn Sie also bereits eine übermittelt haben, können Sie loslegen.
+Allen Pull[Anforderungen muss eine unterzeichnete Lizenzvereinbarung für Mitwirkende oder &#x200B;](https://opensource.adobe.com/cla.html) beigelegt sein. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts zu verteilen. Sie können eine Adobe-CLA nur einmal senden. Wenn Sie also bereits eine übermittelt haben, können Sie loslegen.
 
 ### Schnelle Videoeinführung
 
@@ -58,4 +58,4 @@ Jeder Beitrag wird begrüßt und geprüft, wenn er im öffentlichen Repository e
 
 ## Weiterführende Informationen
 
-Weitere Informationen zur Verwendung der GitHub-Autorenplattform ](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) Sie im Adobe-Handbuch für Mitwirkende an Dokumenten .[
+Weitere Informationen zur Verwendung der GitHub-Autorenplattform [&#128279;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) Sie im Adobe-Handbuch für Mitwirkende an Dokumenten .
