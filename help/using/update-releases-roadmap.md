@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7243d26f051b19264dc1f75c130801c87f59f9a0
+source-git-commit: 33ca32932338f46f5e25ac6e51ebda0ddc796a1c
 workflow-type: tm+mt
 source-wordcount: '1256'
 ht-degree: 73%
@@ -58,7 +58,7 @@ Die kommenden Versionen für [!DNL Experience Manager] as a [!DNL Cloud Service]
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion [26635](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;22. bis 24. Juni 2026 | Ziel |
+| Wartungsversion [26773](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;22. bis 24. Juni 2026 | Ziel |
 | Funktionsveröffentlichung 2026.6.0 | Funktionsaktivierung | 25. Juni 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;6. bis 8. Juli 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;20. bis 22. Juli 2026 | Target |
