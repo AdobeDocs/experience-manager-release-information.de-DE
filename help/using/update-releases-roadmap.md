@@ -90,7 +90,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs b
 > * **Adobe Managed Services**-Kunden: endet am 31. August 2026.
 > * **On Prem**-Kunden: Der Core-Support läuft derzeit bis Februar 2027 aus.
 > 
->AEM 6.5 LTS deckt beide Pfade ab. Weitere Informationen finden Sie unter [Häufig gestellte Fragen ](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) AEM 6.5 LTS .
+>AEM 6.5 LTS deckt beide Pfade ab. Weitere Informationen finden Sie unter [Häufig gestellte Fragen &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65-lts/content/release-notes/faq) AEM 6.5 LTS .
 
 >[!NOTE]
 >
