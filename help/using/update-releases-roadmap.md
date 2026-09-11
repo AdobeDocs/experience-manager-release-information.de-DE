@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
 source-wordcount: '1134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -51,19 +51,19 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 |---|---|---|---|
 | Funktionsveröffentlichung 2026.9.0 | Funktionsaktivierung | &#x200B;24. September 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;28. bis 30. September 2026 | Ziel |
-| Wartungsversion | Automatisches Update | &#x200B;12. bis 14. Oktober 2026 | Ziel |
-| Wartungsversion | Automatisches Update | &#x200B;26. bis 28. Oktober 2026 | Ziel |
-| Funktionsversion 2026.10.0 | Funktionsaktivierung | &#x200B;29. Oktober 2026 | Ziel |
-| Wartungsversion | Automatisches Update | &#x200B;9. bis 11. November 2026 | Ziel |
+| Wartungsversion | Automatisches Update | &#x200B;12. bis 14. Oktober 2026 | Ziel |
+| Wartungsversion | Automatisches Update | &#x200B;26. bis 28. Oktober 2026 | Ziel |
+| Funktionsveröffentlichung 2026.10.0 | Funktionsaktivierung | 29. Oktober 2026 | Ziel |
+| Wartungsversion | Automatisches Update | &#x200B;9. bis 11. November 2026 | Ziel |
 
 >[!CAUTION]
 >
 >**Ausschlusszeitraum für geplante Wartungen**
 >
-> Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr MEZ) beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
+> Während der folgenden Zeiträume, die um Mitternacht (00:00 Uhr MEZ) beginnen und enden, wird keine automatische AEMaaCS-Wartung ausgeführt:
 >
->* Montag, 23. November 2026 bis Dienstag, 1. Dezember 2026.
->* Montag, 14. Dezember 2026 bis Sonntag, 3. Januar 2027.
+>* Montag, 23. November 2026 bis Dienstag, 1. Dezember 2026.
+>* Montag, 14. Dezember 2026 bis Sonntag, 3. Januar 2027.
 
 ## On-Premise- und Managed Services zu [!DNL Experience Manager] {#aem-on-prem-managed-services}
 
