@@ -6,17 +6,15 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
 workflow-type: tm+mt
 source-wordcount: '16443'
-ht-degree: 98%
-
+ht-degree: 100%
 ---
-
 # AEM [!DNL Forms]-Versionen {#aem-forms-releases}
 
 Adobe Experience Manager [!DNL Forms] ist ein Programm, das in AEM bereitgestellt wird. Es verbessert die Web- und Mobilerfahrung für Unternehmensformulare und -dokumente. Mit dieser Funktion können Organisationen komplexe digitale Interaktionen durchführen, Anwendererlebnisse verbessern und ihre Geschäftserfahrung erweitern. AEM [!DNL Forms] (vorkonfiguriert) ist im AEM-Schnellstart enthalten, verfügt jedoch nur über einen beschränkten Satz von Funktionen. Das Add-in-Paket für AEM [!DNL Forms] enthält erweiterte Funktionen wie die Integration in [!DNL Adobe Analytics], [!DNL Adobe Sign], Dokumentendienste, Workflow-Engine und viele mehr.
 
 >[!NOTE]
 >
->Die Funktion „Adaptive Formulare“, verfügbar in [AEM 6.5 QuickStart](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), dient nur zu Kennenlern- und Evaluierungszwecken. Für die Verwendung in der Produktion muss eine gültige Lizenz für AEM Forms erworben werden, da für die Funktion „Adaptive Formulare“ eine Lizenzierung erforderlich ist.
+>Die Funktion Adaptive Formulare, verfügbar in [AEM 6.5 QuickStart](https://experienceleague.adobe.com/de/docs/experience-manager-65/content/implementing/deploying/deploying/deploy), dient nur zu Kennenlern- und Evaluierungszwecken. Für die Verwendung in der Produktion muss eine gültige Lizenz für AEM Forms erworben werden, da für die Funktion Adaptive Formulare eine Lizenzierung erforderlich ist.
 
 <!--
 >[!NOTE]
@@ -57,25 +55,25 @@ Dieser Artikel enthält Informationen zu:
         </a>
       </td>
       <td>
-        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 OSGi-Add-on</strong>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 OSGi Add-on</strong>
         <ul>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
-              AEM Forms 6.5 LTS Service Pack 3-Add-on für Microsoft Windows
+              AEM Forms 6.5 LTS Service Pack 3 – Add-on für Microsoft Windows
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
-              AEM Forms 6.5 LTS Service Pack 3-Add-on für Linux®
+              AEM Forms 6.5 LTS Service Pack 3 – Add-on für Linux®
             </a>
           </li>
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
-              AEM Forms 6.5 LTS Service Pack 3-Add-on für macOS
+              AEM Forms 6.5 LTS Service Pack 3 – Add-on für macOS
             </a>
           </li>
         </ul>
-        <p>Die AEM Forms 6.5 LTS Service Pack 3 JEE-Installationsprogramme werden zu einem späteren Zeitpunkt verfügbar sein.</p>
+        <p>Die Installationsprogramme für AEM Forms 6.5 LTS Service Pack 3 werden zu einem späteren Zeitpunkt verfügbar sein.</p>
       </td>
       <td>6.1.238</td>
     </tr>
@@ -1140,7 +1138,7 @@ Dieser Artikel enthält Informationen zu:
   </tbody>
  </table>
 
-`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de?lang=de&support-solution=General&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
+`[1]` Wenden Sie sich an den [Adobe-Support](https://experienceleague.adobe.com/de/home?support-solution=General&lang=ja&support-tab=home#support), um Installationsprogramme für Workbench, Rights Management-SDK, Portable Protection Library (PPL) und Enhanced PPL zu erhalten.
 
 `[2]` Das AEM [!DNL Forms]-Add-in-Paket für macOS X wird in der Produktionsumgebung nicht unterstützt und sollte nur zur Veranschaulichung verwendet werden. Die PDF Generator-Funktion ist für das macOS X-Paket nicht verfügbar.
 
