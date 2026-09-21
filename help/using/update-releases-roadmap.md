@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 description: '[!DNL Adobe Experience Manager]-Versions-Roadmap'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
+source-git-commit: 47f3272a359a58f3020675c038aa2bbcfec6788e
 workflow-type: tm+mt
-source-wordcount: '1134'
-ht-degree: 100%
+source-wordcount: '1153'
+ht-degree: 98%
 ---
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
@@ -41,14 +41,14 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Wartungsversion [27293](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | Automatisches Update | &#x200B;3. bis 5. August 2026 | Aktualisiert |
 | Wartungsversion [27673](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | Automatisches Update | &#x200B;17. bis 19. August 2026 | Aktualisiert |
 | Funktionsveröffentlichung [2026.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | &#x200B;27. August 2026 | Aktiviert |
-| Wartungsversion [27830](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;31. August bis 2. September 2026 | Aktualisiert |
+| Wartungsversion [27830](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Automatisches Update | &#x200B;31. August bis 2. September 2026 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
 | Funktionsveröffentlichung 2026.9.0 | Funktionsaktivierung | &#x200B;24. September 2026 | Ziel |
-| Wartungsversion | Automatisches Update | &#x200B;28. bis 30. September 2026 | Ziel |
+| Wartungsversion [28187](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;28. bis 30. September 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;12. bis 14. Oktober 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;26. bis 28. Oktober 2026 | Ziel |
 | Funktionsveröffentlichung 2026.10.0 | Funktionsaktivierung | 29. Oktober 2026 | Ziel |
