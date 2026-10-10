@@ -3,13 +3,30 @@ title: Ältere Versionen der Dokumentation für AEM, CQ und CRX herunterladen
 description: Laden Sie Dokumentationspakete für ältere Versionen von Adobe Experience Manager, CQ und CRX herunter.
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '964'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '965'
+ht-degree: 97%
 ---
-
 # Ältere Versionen der Dokumentation für [!DNL Adobe Experience Manager], CQ und CRX {#older-versions-aem-cq-crx}
 
 Suchen Sie vorherige Handbücher mit Hilfe für ältere Versionen von AEM, CQ und CRX.
@@ -95,7 +112,7 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Installieren]**. Die Installation dauert einige Minuten.
 
-1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Unter Verwendung des Beispiels für AEM 5.6.1 würde die URL wie folgt lauten: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Beim Beispiel mit AEM 5.6.1 lautet die URL wie folgt: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Hilfe von der [!DNL Experience Manager]-Community {#get-help-from-aem-community}
 
