@@ -24,7 +24,7 @@ level_v2:
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
 source-wordcount: '1222'
-ht-degree: 96%
+ht-degree: 100%
 ---
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
@@ -95,10 +95,10 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 LTS werden über Service Pac
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 1](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | Service Pack | 28. August 2025 | Aktiviert |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 2](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Service Pack | Freitag, 19. Februar 2026 | Aktiviert |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 3](https://experienceleague.adobe.com/de/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | Service Pack | 20. August 2026 | Aktiviert |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 4 | 6.5.LTS.SP4 | Service Pack | &#x200B;18. Februar 2027 | Ziel |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 5 | 6.5.LTS.SP5 | Service Pack | &#x200B;20. Mai 2027 | Ziel |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 6 | 6.5.LTS.SP6 | Service Pack | &#x200B;19. August 2027 | Ziel |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | &#x200B;18. November 2027 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 4 | 6.5.LTS.SP4 | Service Pack | 18. Februar 2027 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 5 | 6.5.LTS.SP5 | Service Pack | 20. Mai 2027 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 6 | 6.5.LTS.SP6 | Service Pack | 19. August 2027 | Ziel |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | 18. November 2027 | Ziel |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
