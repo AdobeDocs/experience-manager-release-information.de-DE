@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 100%
+source-wordcount: '1268'
+ht-degree: 97%
 ---
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
@@ -62,16 +62,20 @@ Für [!DNL Experience Manager] as a [!DNL Cloud Service] sind die folgenden V
 | Funktionsveröffentlichung [2026.8.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | Funktionsaktivierung | &#x200B;27. August 2026 | Aktiviert |
 | Wartungsversion [27830](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | Automatisches Update | &#x200B;31. August bis 2. September 2026 | Aktualisiert |
 | Funktionsveröffentlichung [2026.9.0](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | Funktionsaktivierung | &#x200B;24. September 2026 | Aktiviert |
-| Wartungsversion [28386](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;28. bis 30. September 2026 | Aktualisiert |
+| Wartungsversion [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | Automatisches Update | &#x200B;28. bis 30. September 2026 | Aktualisiert |
+| Wartungsversion [28871](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest?lang=de) | Automatisches Update | &#x200B;12. bis 14. Oktober 2026 | Aktualisiert |
 
 ### Bevorstehende [!DNL Cloud Service]-Versionen {#upcoming}
 
 | Freigabe | Ereignis | Zeitplan | Status |
 |---|---|---|---|
-| Wartungsversion | Automatisches Update | &#x200B;12. bis 14. Oktober 2026 | Ziel |
-| Wartungsversion | Automatisches Update | &#x200B;26. bis 28. Oktober 2026 | Ziel |
+| Wartungsversion | Automatisches Update | &#x200B;26. bis 28. Oktober 2026 | Ziel |
 | Funktionsveröffentlichung 2026.10.0 | Funktionsaktivierung | 29. Oktober 2026 | Ziel |
 | Wartungsversion | Automatisches Update | &#x200B;9. bis 11. November 2026 | Ziel |
+| Funktionsversion 2026.11.0 | Funktionsaktivierung | 19. November 2026 | Ziel |
+| Wartungsversion | Automatisches Update | &#x200B;7. bis 9. Dezember 2026 | Ziel |
+| Funktionsversion 2026.12.0 | Funktionsaktivierung | &#x200B;10. Dezember 2026 | Ziel |
+
 
 >[!CAUTION]
 >
