@@ -1,6 +1,6 @@
 ---
 title: Definitionen von Aktualisierungsversionen
-description: In diesem Artikel werden die verschiedenen Arten von [!DNL Experience Manager]-Versionen beschrieben, einschließlich Vollversionen, Feature Packs und Service Packs.
+description: In diesem Artikel werden die verschiedenen [!DNL Experience Manager]-Versionen beschrieben, einschließlich Vollversionen, Feature Packs und Service Packs.
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Definitionen von [!DNL Experience Manager]-Aktualisierungsversionen {#update-release-vehicle-definitions}
 
@@ -47,7 +47,7 @@ Dieses Dokument enthält Einzelheiten zu den verschiedenen Arten von [!DNL Adobe
 | Verfügbarkeit und Installation | <ul> <li> Bereitstellung als eigenständiges Produktinstallationsprogramm </li> <li>  Verfügbar über Lizenzierungs-Website und Managed Services </li> <li> Lizenzierungs-Website erfordert möglicherweise eine Migration des Content-Repository </li> </ul> |
 | Teststufe | Vollständige Validierung durch Qualitätssicherung |
 
-## Service Pack {#service-pack}
+## Service Pack {#service-pack}
 
 | Element | Beschreibung |
 |-----|-----|

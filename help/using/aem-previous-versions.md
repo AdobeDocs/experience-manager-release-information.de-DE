@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # Ältere Versionen der Dokumentation für [!DNL Adobe Experience Manager], CQ und CRX {#older-versions-aem-cq-crx}
 
@@ -112,8 +112,8 @@ Zur Installation eines Legacy-Dokumentationspakets muss [!DNL Experience Manager
 
 1. Wählen Sie im Bestätigungsdialogfeld erneut **[!UICONTROL Installieren]**. Die Installation dauert einige Minuten.
 
-1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Beim Beispiel mit AEM 5.6.1 lautet die URL wie folgt: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
+1. Rufen Sie in einem Webbrowser die Dokumentationsseite auf. Unter Verwendung des Beispiels für AEM 5.6.1 würde die URL wie folgt lauten: http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html.
 
 ## Hilfe von der [!DNL Experience Manager]-Community {#get-help-from-aem-community}
 
-Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) in Verbindung zu setzen.
+Wenn Sie Fragen zur Verwendung von Experience Manager haben, empfielt Adobe, [sich mit erfahrenen Community-Fachleuten in den  [!DNL Experience Manager] -Foren](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in Verbindung zu setzen.
