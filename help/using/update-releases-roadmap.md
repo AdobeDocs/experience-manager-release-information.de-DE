@@ -23,8 +23,8 @@ level_v2:
     internal-label: Experienced
 source-git-commit: 64418defc203acc2f11b37997ba67006156a9af3
 workflow-type: tm+mt
-source-wordcount: '1350'
-ht-degree: 96%
+source-wordcount: '1329'
+ht-degree: 98%
 ---
 # Roadmap für [!DNL Experience Manager]-Versionen {#aem-releases-roadmap}
 
@@ -130,7 +130,7 @@ Produkt-Updates für [!DNL Experience Manager] 6.5 werden über Service Packs b
 >
 > 6.5.26.0 ist die letzte unterstützte Service-Pack-Version für AEM 6.5.
 >
-> Jedes Service Pack wird bis zu 18 Monate ab Veröffentlichung unterstützt – bis zum 28. Februar 2027. Weitere Informationen finden Sie unter [Produkte und Zeiträume für technischen Support](https://helpx.adobe.com/de/support/programs/eol-matrix.html#cq). Wenn Sie die erweiterte Unterstützung für 6.5 bis Februar 2028 genehmigt haben, sind kritische Sicherheitskorrekturen nur für das zuletzt veröffentlichte Service Pack 26 verfügbar.
+> Jedes Service Pack wird bis zu 18 Monate ab Veröffentlichung unterstützt – bis zum 28. Februar 2027. Weitere Informationen finden Sie unter [Produkte und Zeiträume für technischen Support](https://helpx.adobe.com/de/support/programs/eol-matrix.html#cq). Wenn Sie die erweiterte Unterstützung für 6.5 bis Februar 2028 genehmigt haben, sind kritische Sicherheits-Updates nur für das zuletzt veröffentlichte Service Pack 26 verfügbar.
 
 >[!NOTE]
 >
